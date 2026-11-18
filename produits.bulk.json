@@ -1,0 +1,109 @@
+{ "index": { "_index": "products", "_id": "P001" } }
+{ "id": "P001", "name": "Clavier mécanique RGB", "brand": "KeyPro", "category": "Informatique", "price": 89.99, "stock": 42 }
+{ "index": { "_index": "products", "_id": "P002" } }
+{ "id": "P002", "name": "Souris sans fil ergonomique", "brand": "TechEase", "category": "Informatique", "price": 29.90, "stock": 120 }
+{ "index": { "_index": "products", "_id": "P003" } }
+{ "id": "P003", "name": "Écran 27 pouces 144Hz", "brand": "VisionX", "category": "Informatique", "price": 249.00, "stock": 15 }
+{ "index": { "_index": "products", "_id": "P004" } }
+{ "id": "P004", "name": "Casque Bluetooth ANC", "brand": "SoundMax", "category": "Audio", "price": 119.90, "stock": 60 }
+{ "index": { "_index": "products", "_id": "P005" } }
+{ "id": "P005", "name": "Enceinte portable waterproof", "brand": "BoomBox", "category": "Audio", "price": 49.99, "stock": 80 }
+
+{ "index": { "_index": "products", "_id": "P006" } }
+{ "id": "P006", "name": "Aspirateur robot intelligent", "brand": "CleanBot", "category": "Maison", "price": 299.90, "stock": 25 }
+{ "index": { "_index": "products", "_id": "P007" } }
+{ "id": "P007", "name": "Ventilateur silencieux", "brand": "FreshAir", "category": "Maison", "price": 39.90, "stock": 100 }
+{ "index": { "_index": "products", "_id": "P008" } }
+{ "id": "P008", "name": "Lampe LED connectée", "brand": "Lightify", "category": "Maison", "price": 24.99, "stock": 150 }
+{ "index": { "_index": "products", "_id": "P009" } }
+{ "id": "P009", "name": "Purificateur d'air HEPA", "brand": "PureLife", "category": "Maison", "price": 179.00, "stock": 45 }
+{ "index": { "_index": "products", "_id": "P010" } }
+{ "id": "P010", "name": "Robot de cuisine multifonction", "brand": "CookMaster", "category": "Cuisine", "price": 499.00, "stock": 18 }
+
+{ "index": { "_index": "products", "_id": "P011" } }
+{ "id": "P011", "name": "T-shirt coton premium", "brand": "SoftWear", "category": "Mode", "price": 19.99, "stock": 200 }
+{ "index": { "_index": "products", "_id": "P012" } }
+{ "id": "P012", "name": "Jeans coupe slim", "brand": "UrbanFit", "category": "Mode", "price": 49.90, "stock": 85 }
+{ "index": { "_index": "products", "_id": "P013" } }
+{ "id": "P013", "name": "Veste imperméable", "brand": "TrailGear", "category": "Mode", "price": 89.00, "stock": 34 }
+{ "index": { "_index": "products", "_id": "P014" } }
+{ "id": "P014", "name": "Chaussures de running", "brand": "RunPro", "category": "Sport", "price": 79.99, "stock": 55 }
+{ "index": { "_index": "products", "_id": "P015" } }
+{ "id": "P015", "name": "Montre connectée GPS", "brand": "ActiveTrack", "category": "Sport", "price": 129.90, "stock": 40 }
+
+{ "index": { "_index": "products", "_id": "P016" } }
+{ "id": "P016", "name": "Crème hydratante bio", "brand": "PureSkin", "category": "Beauté", "price": 14.90, "stock": 140 }
+{ "index": { "_index": "products", "_id": "P017" } }
+{ "id": "P017", "name": "Shampooing réparateur", "brand": "HairCare", "category": "Beauté", "price": 9.99, "stock": 220 }
+{ "index": { "_index": "products", "_id": "P018" } }
+{ "id": "P018", "name": "Parfum exclusif 50ml", "brand": "Essenza", "category": "Beauté", "price": 59.00, "stock": 32 }
+{ "index": { "_index": "products", "_id": "P019" } }
+{ "id": "P019", "name": "Gel douche naturel", "brand": "GreenWash", "category": "Beauté", "price": 6.50, "stock": 300 }
+{ "index": { "_index": "products", "_id": "P020" } }
+{ "id": "P020", "name": "Brosse à cheveux anti-frisottis", "brand": "SmoothHair", "category": "Beauté", "price": 12.90, "stock": 70 }
+
+{ "index": { "_index": "products", "_id": "P021" } }
+{ "id": "P021", "name": "Balle de yoga", "brand": "FitHome", "category": "Sport", "price": 22.99, "stock": 150 }
+{ "index": { "_index": "products", "_id": "P022" } }
+{ "id": "P022", "name": "Haltères 2 × 5kg", "brand": "BodySteel", "category": "Sport", "price": 34.99, "stock": 90 }
+{ "index": { "_index": "products", "_id": "P023" } }
+{ "id": "P023", "name": "Tapis de course pliable", "brand": "ProRun", "category": "Sport", "price": 599.00, "stock": 12 }
+{ "index": { "_index": "products", "_id": "P024" } }
+{ "id": "P024", "name": "Vélo elliptique", "brand": "AthletiX", "category": "Sport", "price": 349.00, "stock": 22 }
+{ "index": { "_index": "products", "_id": "P025" } }
+{ "id": "P025", "name": "Tapis de yoga antidérapant", "brand": "ZenSport", "category": "Sport", "price": 19.99, "stock": 180 }
+
+{ "index": { "_index": "products", "_id": "P026" } }
+{ "id": "P026", "name": "Machine à café expresso", "brand": "CoffeePro", "category": "Cuisine", "price": 159.00, "stock": 30 }
+{ "index": { "_index": "products", "_id": "P027" } }
+{ "id": "P027", "name": "Grille-pain inox", "brand": "Toasty", "category": "Cuisine", "price": 29.90, "stock": 130 }
+{ "index": { "_index": "products", "_id": "P028" } }
+{ "id": "P028", "name": "Mixeur plongeant", "brand": "KitchenPro", "category": "Cuisine", "price": 39.99, "stock": 85 }
+{ "index": { "_index": "products", "_id": "P029" } }
+{ "id": "P029", "name": "Plancha électrique", "brand": "GrillMaster", "category": "Cuisine", "price": 89.00, "stock": 40 }
+{ "index": { "_index": "products", "_id": "P030" } }
+{ "id": "P030", "name": "Casserole 24cm antiadhésive", "brand": "CookSteel", "category": "Cuisine", "price": 24.99, "stock": 200 }
+
+{ "index": { "_index": "products", "_id": "P031" } }
+{ "id": "P031", "name": "Bureau en bois", "brand": "HomeWood", "category": "Mobilier", "price": 149.00, "stock": 25 }
+{ "index": { "_index": "products", "_id": "P032" } }
+{ "id": "P032", "name": "Chaise de bureau ergonomique", "brand": "ErgoSeat", "category": "Mobilier", "price": 129.90, "stock": 60 }
+{ "index": { "_index": "products", "_id": "P033" } }
+{ "id": "P033", "name": "Table basse scandinave", "brand": "NordicHome", "category": "Mobilier", "price": 89.90, "stock": 80 }
+{ "index": { "_index": "products", "_id": "P034" } }
+{ "id": "P034", "name": "Armoire 2 portes", "brand": "Storix", "category": "Mobilier", "price": 249.00, "stock": 12 }
+{ "index": { "_index": "products", "_id": "P035" } }
+{ "id": "P035", "name": "Fauteuil relax", "brand": "ComfortMax", "category": "Mobilier", "price": 199.00, "stock": 20 }
+
+{ "index": { "_index": "products", "_id": "P036" } }
+{ "id": "P036", "name": "Imprimante laser WiFi", "brand": "PrintHub", "category": "Informatique", "price": 159.00, "stock": 50 }
+{ "index": { "_index": "products", "_id": "P037" } }
+{ "id": "P037", "name": "Routeur WiFi 6", "brand": "NetWave", "category": "Informatique", "price": 119.00, "stock": 65 }
+{ "index": { "_index": "products", "_id": "P038" } }
+{ "id": "P038", "name": "NAS 4 baies", "brand": "DataBox", "category": "Informatique", "price": 399.00, "stock": 22 }
+{ "index": { "_index": "products", "_id": "P039" } }
+{ "id": "P039", "name": "SSD 1 To NVMe", "brand": "FlashSpeed", "category": "Informatique", "price": 89.00, "stock": 140 }
+{ "index": { "_index": "products", "_id": "P040" } }
+{ "id": "P040", "name": "Barrette RAM 16 Go", "brand": "MemFast", "category": "Informatique", "price": 59.00, "stock": 100 }
+
+{ "index": { "_index": "products", "_id": "P041" } }
+{ "id": "P041", "name": "Valise cabine 40L", "brand": "TravelOne", "category": "Voyage", "price": 69.00, "stock": 90 }
+{ "index": { "_index": "products", "_id": "P042" } }
+{ "id": "P042", "name": "Sac à dos étanche", "brand": "OutdoorGear", "category": "Voyage", "price": 39.00, "stock": 110 }
+{ "index": { "_index": "products", "_id": "P043" } }
+{ "id": "P043", "name": "Tente 3 places", "brand": "CampLife", "category": "Voyage", "price": 129.00, "stock": 25 }
+{ "index": { "_index": "products", "_id": "P044" } }
+{ "id": "P044", "name": "Sac de couchage -5°C", "brand": "WarmSleep", "category": "Voyage", "price": 59.00, "stock": 70 }
+{ "index": { "_index": "products", "_id": "P045" } }
+{ "id": "P045", "name": "Lampe frontale LED", "brand": "NightTrail", "category": "Voyage", "price": 19.99, "stock": 200 }
+
+{ "index": { "_index": "products", "_id": "P046" } }
+{ "id": "P046", "name": "Jeu de société coopératif", "brand": "FunBox", "category": "Loisirs", "price": 29.90, "stock": 150 }
+{ "index": { "_index": "products", "_id": "P047" } }
+{ "id": "P047", "name": "Puzzle 1000 pièces", "brand": "BrainFun", "category": "Loisirs", "price": 14.90, "stock": 180 }
+{ "index": { "_index": "products", "_id": "P048" } }
+{ "id": "P048", "name": "Drone caméra 4K", "brand": "SkyView", "category": "Loisirs", "price": 299.00, "stock": 18 }
+{ "index": { "_index": "products", "_id": "P049" } }
+{ "id": "P049", "name": "Trottinette électrique", "brand": "UrbanRide", "category": "Mobilité", "price": 399.00, "stock": 14 }
+{ "index": { "_index": "products", "_id": "P050" } }
+{ "id": "P050", "name": "Casque vélo avec LED", "brand": "SafeRide", "category": "Mobilité", "price": 39.00, "stock": 85 }

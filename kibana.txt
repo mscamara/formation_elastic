@@ -1,0 +1,97 @@
+Présentation
+Ces quatre exercices apprennent à construire des visualisations dans Kibana avec Lens : indicateurs, courbes temporelles, répartitions et tableau de bord. Ils s’appuient sur un jeu de données de ventes (400 commandes) fourni dans le fichier ventes.bulk.json.
+Plan du cahier
+Préparation : charger les données, créer la vue de données (data view)
+Exercice 1 — Indicateurs clés : Metric, Gauge, formules
+Exercice 2 — Évolution dans le temps : courbes, ventilation, cumul
+Exercice 3 — Répartitions et classements : donut, barres, tableau
+Exercice 4 — Tableau de bord interactif : dashboard, contrôles, filtres
+Solutions et annexe (aide-mémoire Lens)
+Le jeu de données « ventes »
+Chaque document est une commande passée entre le 1er septembre et le 15 novembre 2026.
+Champ
+Type
+Description
+commande_id
+keyword
+Identifiant de la commande
+date_vente
+date
+Date et heure de la commande (champ temporel)
+client_id
+keyword
+Identifiant du client
+produit
+keyword
+Nom du produit (10 produits)
+categorie
+keyword
+Informatique ou Audio
+pays
+keyword
+France, Belgique, Suisse ou Canada
+canal
+keyword
+web, mobile ou magasin
+quantite
+integer
+Quantité commandée
+prix_unitaire
+scaled_float
+Prix unitaire en euros
+montant
+scaled_float
+Montant de la commande (quantité × prix unitaire)
+statut
+keyword
+livree, expediee ou annulee
+note_client
+integer
+Note de 1 à 5, renseignée uniquement pour les commandes livrées
+
+
+Remarque : Convention du cahier. Le chiffre d’affaires (CA) est la somme de montant des commandes dont le statut n’est pas annulee. Les requêtes KQL du cahier utilisent donc not statut : "annulee".
+Préparation
+1. Démarrer la pile
+Le cluster Elasticsearch et Kibana doivent tourner, sécurité désactivée (configuration des TP 1 et 2) :
+sudo docker-compose up -d es01 es02 es03 kibana
+Kibana est accessible sur http://localhost:5601.
+2. Créer l’index
+Dans Kibana, ouvrez Dev Tools et créez l’index avec son mapping. Les prix sont en scaled_float (stockés en centimes) pour obtenir des sommes exactes :
+PUT ventes
+{
+  "mappings": {
+    "properties": {
+      "commande_id":   { "type": "keyword" },
+      "date_vente":    { "type": "date" },
+      "client_id":     { "type": "keyword" },
+      "produit":       { "type": "keyword" },
+      "categorie":     { "type": "keyword" },
+      "pays":          { "type": "keyword" },
+      "canal":         { "type": "keyword" },
+      "quantite":      { "type": "integer" },
+      "prix_unitaire": { "type": "scaled_float", "scaling_factor": 100 },
+      "montant":       { "type": "scaled_float", "scaling_factor": 100 },
+      "statut":        { "type": "keyword" },
+      "note_client":   { "type": "integer" }
+    }
+  }
+}
+3. Importer les données
+curl -XPOST localhost:9201/_bulk -H "Content-Type: application/x-ndjson" --data-binary @ventes.bulk.json
+Remarque : Le port (ici 9201) dépend de votre docker-compose.yml. La réponse doit contenir "errors": false.
+Vérifiez le contenu de l’index :
+GET ventes/_count
+Le résultat attendu est 400.
+4. Créer la vue de données
+Ouvrez le menu principal puis Management → Stack Management → Data Views.
+Cliquez sur Create data view.
+Nom : ventes. Index pattern : ventes. Champ d’horodatage : date_vente.
+Enregistrez avec Save data view to Kibana.
+5. Régler la plage de dates
+Dans Discover ou dans Lens, le sélecteur de dates en haut à droite doit couvrir toute la période des données. Choisissez une plage absolue (et non « Last 90 days », qui dérive avec le temps) :
+début : 1er septembre 2026, 00:00
+fin : 15 novembre 2026, 23:59
+6. Ouvrir Lens
+Menu principal → Analytics → Visualize Library → Create visualization → Lens. Choisissez la vue de données ventes. Lens se pilote en glissant des champs dans l’espace de travail ou dans les dimensions du panneau de droite, et en choisissant le type de visualisation en haut.
+Remarque : Sur un champ numérique, Lens propose par défaut la fonction Median. Pensez à la remplacer par Sum, Average, etc. selon l’indicateur voulu.

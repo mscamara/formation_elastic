@@ -1,0 +1,800 @@
+{"index": {"_index": "ventes", "_id": "CMD-0001"}}
+{"commande_id": "CMD-0001", "date_vente": "2026-09-01T16:01:11Z", "client_id": "CLI-081", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Belgique", "canal": "web", "quantite": 4, "prix_unitaire": 39.9, "montant": 159.6, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0002"}}
+{"commande_id": "CMD-0002", "date_vente": "2026-09-02T08:53:23Z", "client_id": "CLI-017", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 3, "prix_unitaire": 12.9, "montant": 38.7, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0003"}}
+{"commande_id": "CMD-0003", "date_vente": "2026-09-02T15:06:55Z", "client_id": "CLI-019", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "France", "canal": "mobile", "quantite": 1, "prix_unitaire": 59.9, "montant": 59.9, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0004"}}
+{"commande_id": "CMD-0004", "date_vente": "2026-09-02T09:35:33Z", "client_id": "CLI-064", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "Suisse", "canal": "mobile", "quantite": 1, "prix_unitaire": 59.9, "montant": 59.9, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0005"}}
+{"commande_id": "CMD-0005", "date_vente": "2026-09-02T09:51:31Z", "client_id": "CLI-080", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 2, "prix_unitaire": 12.9, "montant": 25.8, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0006"}}
+{"commande_id": "CMD-0006", "date_vente": "2026-09-03T19:42:54Z", "client_id": "CLI-127", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 12.9, "montant": 25.8, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0007"}}
+{"commande_id": "CMD-0007", "date_vente": "2026-09-03T13:26:53Z", "client_id": "CLI-098", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 24.5, "montant": 49.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0008"}}
+{"commande_id": "CMD-0008", "date_vente": "2026-09-04T09:20:17Z", "client_id": "CLI-114", "produit": "Enceinte portable", "categorie": "Audio", "pays": "France", "canal": "mobile", "quantite": 1, "prix_unitaire": 35.0, "montant": 35.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0009"}}
+{"commande_id": "CMD-0009", "date_vente": "2026-09-04T12:18:36Z", "client_id": "CLI-118", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 1, "prix_unitaire": 139.0, "montant": 139.0, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0010"}}
+{"commande_id": "CMD-0010", "date_vente": "2026-09-04T09:43:49Z", "client_id": "CLI-127", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "Canada", "canal": "magasin", "quantite": 1, "prix_unitaire": 79.9, "montant": 79.9, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0011"}}
+{"commande_id": "CMD-0011", "date_vente": "2026-09-04T13:41:21Z", "client_id": "CLI-016", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "Canada", "canal": "mobile", "quantite": 2, "prix_unitaire": 59.9, "montant": 119.8, "statut": "livree", "note_client": 1}
+{"index": {"_index": "ventes", "_id": "CMD-0012"}}
+{"commande_id": "CMD-0012", "date_vente": "2026-09-04T18:39:26Z", "client_id": "CLI-122", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "Canada", "canal": "web", "quantite": 1, "prix_unitaire": 79.9, "montant": 79.9, "statut": "livree", "note_client": 1}
+{"index": {"_index": "ventes", "_id": "CMD-0013"}}
+{"commande_id": "CMD-0013", "date_vente": "2026-09-04T12:20:01Z", "client_id": "CLI-054", "produit": "Enceinte portable", "categorie": "Audio", "pays": "Suisse", "canal": "mobile", "quantite": 2, "prix_unitaire": 35.0, "montant": 70.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0014"}}
+{"commande_id": "CMD-0014", "date_vente": "2026-09-04T08:06:09Z", "client_id": "CLI-085", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "Canada", "canal": "magasin", "quantite": 2, "prix_unitaire": 139.0, "montant": 278.0, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0015"}}
+{"commande_id": "CMD-0015", "date_vente": "2026-09-05T14:45:33Z", "client_id": "CLI-144", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 59.9, "montant": 119.8, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0016"}}
+{"commande_id": "CMD-0016", "date_vente": "2026-09-06T11:58:30Z", "client_id": "CLI-088", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 89.99, "montant": 179.98, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0017"}}
+{"commande_id": "CMD-0017", "date_vente": "2026-09-06T18:31:08Z", "client_id": "CLI-006", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0018"}}
+{"commande_id": "CMD-0018", "date_vente": "2026-09-06T19:25:19Z", "client_id": "CLI-056", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Belgique", "canal": "magasin", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0019"}}
+{"commande_id": "CMD-0019", "date_vente": "2026-09-07T16:49:54Z", "client_id": "CLI-077", "produit": "Enceinte portable", "categorie": "Audio", "pays": "Canada", "canal": "mobile", "quantite": 2, "prix_unitaire": 35.0, "montant": 70.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0020"}}
+{"commande_id": "CMD-0020", "date_vente": "2026-09-08T18:21:23Z", "client_id": "CLI-047", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "mobile", "quantite": 2, "prix_unitaire": 39.9, "montant": 79.8, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0021"}}
+{"commande_id": "CMD-0021", "date_vente": "2026-09-08T16:33:55Z", "client_id": "CLI-099", "produit": "Enceinte portable", "categorie": "Audio", "pays": "Belgique", "canal": "magasin", "quantite": 4, "prix_unitaire": 35.0, "montant": 140.0, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0022"}}
+{"commande_id": "CMD-0022", "date_vente": "2026-09-09T14:32:54Z", "client_id": "CLI-135", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0023"}}
+{"commande_id": "CMD-0023", "date_vente": "2026-09-10T18:53:54Z", "client_id": "CLI-084", "produit": "Enceinte portable", "categorie": "Audio", "pays": "France", "canal": "mobile", "quantite": 2, "prix_unitaire": 35.0, "montant": 70.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0024"}}
+{"commande_id": "CMD-0024", "date_vente": "2026-09-10T19:09:46Z", "client_id": "CLI-037", "produit": "Enceinte portable", "categorie": "Audio", "pays": "France", "canal": "magasin", "quantite": 1, "prix_unitaire": 35.0, "montant": 35.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0025"}}
+{"commande_id": "CMD-0025", "date_vente": "2026-09-11T12:52:11Z", "client_id": "CLI-036", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 2, "prix_unitaire": 89.99, "montant": 179.98, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0026"}}
+{"commande_id": "CMD-0026", "date_vente": "2026-09-11T10:43:09Z", "client_id": "CLI-106", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0027"}}
+{"commande_id": "CMD-0027", "date_vente": "2026-09-11T16:05:29Z", "client_id": "CLI-105", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 89.99, "montant": 89.99, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0028"}}
+{"commande_id": "CMD-0028", "date_vente": "2026-09-11T17:54:45Z", "client_id": "CLI-066", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 89.99, "montant": 89.99, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0029"}}
+{"commande_id": "CMD-0029", "date_vente": "2026-09-12T11:53:53Z", "client_id": "CLI-044", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "mobile", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0030"}}
+{"commande_id": "CMD-0030", "date_vente": "2026-09-12T19:27:29Z", "client_id": "CLI-093", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "Suisse", "canal": "magasin", "quantite": 2, "prix_unitaire": 139.0, "montant": 278.0, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0031"}}
+{"commande_id": "CMD-0031", "date_vente": "2026-09-12T17:30:05Z", "client_id": "CLI-055", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "Suisse", "canal": "web", "quantite": 1, "prix_unitaire": 59.9, "montant": 59.9, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0032"}}
+{"commande_id": "CMD-0032", "date_vente": "2026-09-12T10:07:11Z", "client_id": "CLI-053", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 2, "prix_unitaire": 89.99, "montant": 179.98, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0033"}}
+{"commande_id": "CMD-0033", "date_vente": "2026-09-13T18:57:58Z", "client_id": "CLI-069", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0034"}}
+{"commande_id": "CMD-0034", "date_vente": "2026-09-13T13:31:08Z", "client_id": "CLI-028", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Suisse", "canal": "mobile", "quantite": 2, "prix_unitaire": 89.99, "montant": 179.98, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0035"}}
+{"commande_id": "CMD-0035", "date_vente": "2026-09-13T17:03:59Z", "client_id": "CLI-144", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0036"}}
+{"commande_id": "CMD-0036", "date_vente": "2026-09-13T16:52:33Z", "client_id": "CLI-026", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Suisse", "canal": "web", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0037"}}
+{"commande_id": "CMD-0037", "date_vente": "2026-09-13T15:36:06Z", "client_id": "CLI-099", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Suisse", "canal": "magasin", "quantite": 1, "prix_unitaire": 89.99, "montant": 89.99, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0038"}}
+{"commande_id": "CMD-0038", "date_vente": "2026-09-13T13:08:01Z", "client_id": "CLI-027", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 59.9, "montant": 119.8, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0039"}}
+{"commande_id": "CMD-0039", "date_vente": "2026-09-14T17:33:07Z", "client_id": "CLI-086", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Suisse", "canal": "web", "quantite": 1, "prix_unitaire": 89.99, "montant": 89.99, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0040"}}
+{"commande_id": "CMD-0040", "date_vente": "2026-09-14T19:15:25Z", "client_id": "CLI-062", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Belgique", "canal": "magasin", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0041"}}
+{"commande_id": "CMD-0041", "date_vente": "2026-09-14T15:12:49Z", "client_id": "CLI-030", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Belgique", "canal": "mobile", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0042"}}
+{"commande_id": "CMD-0042", "date_vente": "2026-09-14T08:33:29Z", "client_id": "CLI-036", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 4, "prix_unitaire": 89.99, "montant": 359.96, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0043"}}
+{"commande_id": "CMD-0043", "date_vente": "2026-09-14T13:38:55Z", "client_id": "CLI-134", "produit": "Enceinte portable", "categorie": "Audio", "pays": "France", "canal": "mobile", "quantite": 3, "prix_unitaire": 35.0, "montant": 105.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0044"}}
+{"commande_id": "CMD-0044", "date_vente": "2026-09-15T15:25:51Z", "client_id": "CLI-029", "produit": "Enceinte portable", "categorie": "Audio", "pays": "Suisse", "canal": "magasin", "quantite": 2, "prix_unitaire": 35.0, "montant": 70.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0045"}}
+{"commande_id": "CMD-0045", "date_vente": "2026-09-15T10:33:17Z", "client_id": "CLI-096", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0046"}}
+{"commande_id": "CMD-0046", "date_vente": "2026-09-15T16:07:57Z", "client_id": "CLI-115", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 3, "prix_unitaire": 24.5, "montant": 73.5, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0047"}}
+{"commande_id": "CMD-0047", "date_vente": "2026-09-15T16:40:59Z", "client_id": "CLI-009", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Canada", "canal": "magasin", "quantite": 4, "prix_unitaire": 39.9, "montant": 159.6, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0048"}}
+{"commande_id": "CMD-0048", "date_vente": "2026-09-15T09:10:41Z", "client_id": "CLI-017", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 4, "prix_unitaire": 59.9, "montant": 239.6, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0049"}}
+{"commande_id": "CMD-0049", "date_vente": "2026-09-15T19:46:34Z", "client_id": "CLI-043", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Belgique", "canal": "mobile", "quantite": 4, "prix_unitaire": 89.99, "montant": 359.96, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0050"}}
+{"commande_id": "CMD-0050", "date_vente": "2026-09-16T16:25:29Z", "client_id": "CLI-023", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0051"}}
+{"commande_id": "CMD-0051", "date_vente": "2026-09-16T11:10:35Z", "client_id": "CLI-052", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 2, "prix_unitaire": 89.99, "montant": 179.98, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0052"}}
+{"commande_id": "CMD-0052", "date_vente": "2026-09-18T13:04:47Z", "client_id": "CLI-034", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "Canada", "canal": "mobile", "quantite": 1, "prix_unitaire": 59.9, "montant": 59.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0053"}}
+{"commande_id": "CMD-0053", "date_vente": "2026-09-18T10:43:51Z", "client_id": "CLI-083", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 3, "prix_unitaire": 49.0, "montant": 147.0, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0054"}}
+{"commande_id": "CMD-0054", "date_vente": "2026-09-18T19:31:40Z", "client_id": "CLI-108", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 3, "prix_unitaire": 24.5, "montant": 73.5, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0055"}}
+{"commande_id": "CMD-0055", "date_vente": "2026-09-18T12:15:07Z", "client_id": "CLI-097", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Canada", "canal": "magasin", "quantite": 2, "prix_unitaire": 89.99, "montant": 179.98, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0056"}}
+{"commande_id": "CMD-0056", "date_vente": "2026-09-19T19:34:00Z", "client_id": "CLI-008", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 4, "prix_unitaire": 79.9, "montant": 319.6, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0057"}}
+{"commande_id": "CMD-0057", "date_vente": "2026-09-19T10:38:32Z", "client_id": "CLI-123", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 79.9, "montant": 79.9, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0058"}}
+{"commande_id": "CMD-0058", "date_vente": "2026-09-19T15:38:18Z", "client_id": "CLI-039", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 1, "prix_unitaire": 49.0, "montant": 49.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0059"}}
+{"commande_id": "CMD-0059", "date_vente": "2026-09-19T09:54:24Z", "client_id": "CLI-071", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 24.5, "montant": 24.5, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0060"}}
+{"commande_id": "CMD-0060", "date_vente": "2026-09-20T15:18:55Z", "client_id": "CLI-081", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "Suisse", "canal": "web", "quantite": 1, "prix_unitaire": 49.0, "montant": 49.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0061"}}
+{"commande_id": "CMD-0061", "date_vente": "2026-09-21T14:14:55Z", "client_id": "CLI-084", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 4, "prix_unitaire": 24.5, "montant": 98.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0062"}}
+{"commande_id": "CMD-0062", "date_vente": "2026-09-21T17:35:19Z", "client_id": "CLI-139", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 2, "prix_unitaire": 79.9, "montant": 159.8, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0063"}}
+{"commande_id": "CMD-0063", "date_vente": "2026-09-21T12:02:47Z", "client_id": "CLI-051", "produit": "Barre de son", "categorie": "Audio", "pays": "France", "canal": "magasin", "quantite": 1, "prix_unitaire": 119.0, "montant": 119.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0064"}}
+{"commande_id": "CMD-0064", "date_vente": "2026-09-21T18:03:39Z", "client_id": "CLI-079", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Suisse", "canal": "mobile", "quantite": 4, "prix_unitaire": 24.5, "montant": 98.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0065"}}
+{"commande_id": "CMD-0065", "date_vente": "2026-09-22T19:40:56Z", "client_id": "CLI-137", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "Canada", "canal": "magasin", "quantite": 3, "prix_unitaire": 79.9, "montant": 239.7, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0066"}}
+{"commande_id": "CMD-0066", "date_vente": "2026-09-22T13:53:22Z", "client_id": "CLI-100", "produit": "Enceinte portable", "categorie": "Audio", "pays": "Belgique", "canal": "web", "quantite": 3, "prix_unitaire": 35.0, "montant": 105.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0067"}}
+{"commande_id": "CMD-0067", "date_vente": "2026-09-23T11:35:37Z", "client_id": "CLI-097", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 3, "prix_unitaire": 139.0, "montant": 417.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0068"}}
+{"commande_id": "CMD-0068", "date_vente": "2026-09-24T14:30:52Z", "client_id": "CLI-041", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 24.5, "montant": 24.5, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0069"}}
+{"commande_id": "CMD-0069", "date_vente": "2026-09-24T09:29:38Z", "client_id": "CLI-089", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Belgique", "canal": "magasin", "quantite": 1, "prix_unitaire": 89.99, "montant": 89.99, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0070"}}
+{"commande_id": "CMD-0070", "date_vente": "2026-09-24T09:56:04Z", "client_id": "CLI-088", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0071"}}
+{"commande_id": "CMD-0071", "date_vente": "2026-09-24T11:55:51Z", "client_id": "CLI-142", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Canada", "canal": "web", "quantite": 2, "prix_unitaire": 12.9, "montant": 25.8, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0072"}}
+{"commande_id": "CMD-0072", "date_vente": "2026-09-25T15:29:54Z", "client_id": "CLI-026", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Canada", "canal": "mobile", "quantite": 1, "prix_unitaire": 24.5, "montant": 24.5, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0073"}}
+{"commande_id": "CMD-0073", "date_vente": "2026-09-25T15:27:56Z", "client_id": "CLI-017", "produit": "Enceinte portable", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 35.0, "montant": 35.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0074"}}
+{"commande_id": "CMD-0074", "date_vente": "2026-09-25T14:40:04Z", "client_id": "CLI-066", "produit": "Enceinte portable", "categorie": "Audio", "pays": "Suisse", "canal": "mobile", "quantite": 4, "prix_unitaire": 35.0, "montant": 140.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0075"}}
+{"commande_id": "CMD-0075", "date_vente": "2026-09-25T17:38:50Z", "client_id": "CLI-079", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 1, "prix_unitaire": 139.0, "montant": 139.0, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0076"}}
+{"commande_id": "CMD-0076", "date_vente": "2026-09-26T09:26:56Z", "client_id": "CLI-022", "produit": "Enceinte portable", "categorie": "Audio", "pays": "Belgique", "canal": "mobile", "quantite": 2, "prix_unitaire": 35.0, "montant": 70.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0077"}}
+{"commande_id": "CMD-0077", "date_vente": "2026-09-26T19:52:38Z", "client_id": "CLI-135", "produit": "Barre de son", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 3, "prix_unitaire": 119.0, "montant": 357.0, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0078"}}
+{"commande_id": "CMD-0078", "date_vente": "2026-09-26T19:54:55Z", "client_id": "CLI-067", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "France", "canal": "magasin", "quantite": 2, "prix_unitaire": 59.9, "montant": 119.8, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0079"}}
+{"commande_id": "CMD-0079", "date_vente": "2026-09-26T12:19:07Z", "client_id": "CLI-064", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0080"}}
+{"commande_id": "CMD-0080", "date_vente": "2026-09-27T09:42:21Z", "client_id": "CLI-104", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "Belgique", "canal": "mobile", "quantite": 2, "prix_unitaire": 59.9, "montant": 119.8, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0081"}}
+{"commande_id": "CMD-0081", "date_vente": "2026-09-27T14:48:43Z", "client_id": "CLI-116", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "Belgique", "canal": "mobile", "quantite": 2, "prix_unitaire": 59.9, "montant": 119.8, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0082"}}
+{"commande_id": "CMD-0082", "date_vente": "2026-09-27T13:50:16Z", "client_id": "CLI-123", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 3, "prix_unitaire": 139.0, "montant": 417.0, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0083"}}
+{"commande_id": "CMD-0083", "date_vente": "2026-09-28T16:50:03Z", "client_id": "CLI-030", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Suisse", "canal": "web", "quantite": 2, "prix_unitaire": 89.99, "montant": 179.98, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0084"}}
+{"commande_id": "CMD-0084", "date_vente": "2026-09-28T11:13:03Z", "client_id": "CLI-020", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 4, "prix_unitaire": 39.9, "montant": 159.6, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0085"}}
+{"commande_id": "CMD-0085", "date_vente": "2026-09-28T18:39:34Z", "client_id": "CLI-133", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Belgique", "canal": "web", "quantite": 2, "prix_unitaire": 39.9, "montant": 79.8, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0086"}}
+{"commande_id": "CMD-0086", "date_vente": "2026-09-28T09:58:06Z", "client_id": "CLI-019", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Canada", "canal": "magasin", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0087"}}
+{"commande_id": "CMD-0087", "date_vente": "2026-09-28T19:01:48Z", "client_id": "CLI-074", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 89.99, "montant": 89.99, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0088"}}
+{"commande_id": "CMD-0088", "date_vente": "2026-09-29T08:26:19Z", "client_id": "CLI-039", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "France", "canal": "magasin", "quantite": 3, "prix_unitaire": 59.9, "montant": 179.7, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0089"}}
+{"commande_id": "CMD-0089", "date_vente": "2026-09-29T17:26:52Z", "client_id": "CLI-123", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "France", "canal": "mobile", "quantite": 2, "prix_unitaire": 59.9, "montant": 119.8, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0090"}}
+{"commande_id": "CMD-0090", "date_vente": "2026-09-29T14:12:17Z", "client_id": "CLI-119", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 3, "prix_unitaire": 49.0, "montant": 147.0, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0091"}}
+{"commande_id": "CMD-0091", "date_vente": "2026-09-29T08:56:06Z", "client_id": "CLI-050", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 3, "prix_unitaire": 49.0, "montant": 147.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0092"}}
+{"commande_id": "CMD-0092", "date_vente": "2026-09-29T18:05:17Z", "client_id": "CLI-142", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 4, "prix_unitaire": 89.99, "montant": 359.96, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0093"}}
+{"commande_id": "CMD-0093", "date_vente": "2026-09-29T19:14:29Z", "client_id": "CLI-143", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 1, "prix_unitaire": 79.9, "montant": 79.9, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0094"}}
+{"commande_id": "CMD-0094", "date_vente": "2026-09-29T14:16:37Z", "client_id": "CLI-121", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 24.5, "montant": 49.0, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0095"}}
+{"commande_id": "CMD-0095", "date_vente": "2026-09-30T10:39:18Z", "client_id": "CLI-137", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 1, "prix_unitaire": 139.0, "montant": 139.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0096"}}
+{"commande_id": "CMD-0096", "date_vente": "2026-09-30T08:58:19Z", "client_id": "CLI-039", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 24.5, "montant": 24.5, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0097"}}
+{"commande_id": "CMD-0097", "date_vente": "2026-10-01T12:43:52Z", "client_id": "CLI-107", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0098"}}
+{"commande_id": "CMD-0098", "date_vente": "2026-10-01T09:18:48Z", "client_id": "CLI-112", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 39.9, "montant": 79.8, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0099"}}
+{"commande_id": "CMD-0099", "date_vente": "2026-10-02T13:12:01Z", "client_id": "CLI-082", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 24.5, "montant": 49.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0100"}}
+{"commande_id": "CMD-0100", "date_vente": "2026-10-02T11:02:22Z", "client_id": "CLI-148", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Suisse", "canal": "magasin", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0101"}}
+{"commande_id": "CMD-0101", "date_vente": "2026-10-02T13:12:34Z", "client_id": "CLI-066", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Belgique", "canal": "mobile", "quantite": 2, "prix_unitaire": 12.9, "montant": 25.8, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0102"}}
+{"commande_id": "CMD-0102", "date_vente": "2026-10-02T08:27:29Z", "client_id": "CLI-014", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 3, "prix_unitaire": 79.9, "montant": 239.7, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0103"}}
+{"commande_id": "CMD-0103", "date_vente": "2026-10-03T18:55:22Z", "client_id": "CLI-032", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 59.9, "montant": 59.9, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0104"}}
+{"commande_id": "CMD-0104", "date_vente": "2026-10-03T18:00:07Z", "client_id": "CLI-010", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Suisse", "canal": "mobile", "quantite": 4, "prix_unitaire": 24.5, "montant": 98.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0105"}}
+{"commande_id": "CMD-0105", "date_vente": "2026-10-03T11:44:38Z", "client_id": "CLI-078", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 3, "prix_unitaire": 139.0, "montant": 417.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0106"}}
+{"commande_id": "CMD-0106", "date_vente": "2026-10-03T14:24:54Z", "client_id": "CLI-095", "produit": "Barre de son", "categorie": "Audio", "pays": "Canada", "canal": "mobile", "quantite": 2, "prix_unitaire": 119.0, "montant": 238.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0107"}}
+{"commande_id": "CMD-0107", "date_vente": "2026-10-03T13:45:15Z", "client_id": "CLI-085", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "Belgique", "canal": "magasin", "quantite": 2, "prix_unitaire": 79.9, "montant": 159.8, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0108"}}
+{"commande_id": "CMD-0108", "date_vente": "2026-10-03T11:59:19Z", "client_id": "CLI-105", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 24.5, "montant": 24.5, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0109"}}
+{"commande_id": "CMD-0109", "date_vente": "2026-10-03T19:05:40Z", "client_id": "CLI-012", "produit": "Barre de son", "categorie": "Audio", "pays": "France", "canal": "magasin", "quantite": 2, "prix_unitaire": 119.0, "montant": 238.0, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0110"}}
+{"commande_id": "CMD-0110", "date_vente": "2026-10-04T14:56:33Z", "client_id": "CLI-131", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 12.9, "montant": 25.8, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0111"}}
+{"commande_id": "CMD-0111", "date_vente": "2026-10-04T16:55:08Z", "client_id": "CLI-064", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "Canada", "canal": "magasin", "quantite": 1, "prix_unitaire": 59.9, "montant": 59.9, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0112"}}
+{"commande_id": "CMD-0112", "date_vente": "2026-10-04T08:43:18Z", "client_id": "CLI-044", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Belgique", "canal": "web", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0113"}}
+{"commande_id": "CMD-0113", "date_vente": "2026-10-04T19:04:49Z", "client_id": "CLI-141", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 2, "prix_unitaire": 12.9, "montant": 25.8, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0114"}}
+{"commande_id": "CMD-0114", "date_vente": "2026-10-04T14:48:35Z", "client_id": "CLI-002", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Suisse", "canal": "web", "quantite": 4, "prix_unitaire": 24.5, "montant": 98.0, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0115"}}
+{"commande_id": "CMD-0115", "date_vente": "2026-10-04T18:08:01Z", "client_id": "CLI-006", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 2, "prix_unitaire": 89.99, "montant": 179.98, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0116"}}
+{"commande_id": "CMD-0116", "date_vente": "2026-10-04T17:09:31Z", "client_id": "CLI-052", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Canada", "canal": "web", "quantite": 3, "prix_unitaire": 24.5, "montant": 73.5, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0117"}}
+{"commande_id": "CMD-0117", "date_vente": "2026-10-05T15:28:44Z", "client_id": "CLI-136", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 1, "prix_unitaire": 24.5, "montant": 24.5, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0118"}}
+{"commande_id": "CMD-0118", "date_vente": "2026-10-05T09:19:25Z", "client_id": "CLI-062", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 12.9, "montant": 25.8, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0119"}}
+{"commande_id": "CMD-0119", "date_vente": "2026-10-06T08:03:54Z", "client_id": "CLI-079", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 24.5, "montant": 24.5, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0120"}}
+{"commande_id": "CMD-0120", "date_vente": "2026-10-06T09:56:27Z", "client_id": "CLI-127", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 1, "prix_unitaire": 49.0, "montant": 49.0, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0121"}}
+{"commande_id": "CMD-0121", "date_vente": "2026-10-06T09:56:08Z", "client_id": "CLI-108", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 2, "prix_unitaire": 24.5, "montant": 49.0, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0122"}}
+{"commande_id": "CMD-0122", "date_vente": "2026-10-06T15:30:01Z", "client_id": "CLI-087", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Suisse", "canal": "mobile", "quantite": 1, "prix_unitaire": 89.99, "montant": 89.99, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0123"}}
+{"commande_id": "CMD-0123", "date_vente": "2026-10-06T16:04:47Z", "client_id": "CLI-049", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 59.9, "montant": 59.9, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0124"}}
+{"commande_id": "CMD-0124", "date_vente": "2026-10-06T09:23:35Z", "client_id": "CLI-031", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 3, "prix_unitaire": 12.9, "montant": 38.7, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0125"}}
+{"commande_id": "CMD-0125", "date_vente": "2026-10-07T08:42:25Z", "client_id": "CLI-121", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "Suisse", "canal": "web", "quantite": 4, "prix_unitaire": 79.9, "montant": 319.6, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0126"}}
+{"commande_id": "CMD-0126", "date_vente": "2026-10-07T11:52:21Z", "client_id": "CLI-025", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 79.9, "montant": 79.9, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0127"}}
+{"commande_id": "CMD-0127", "date_vente": "2026-10-07T15:12:16Z", "client_id": "CLI-141", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Suisse", "canal": "web", "quantite": 4, "prix_unitaire": 24.5, "montant": 98.0, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0128"}}
+{"commande_id": "CMD-0128", "date_vente": "2026-10-07T19:10:24Z", "client_id": "CLI-068", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "magasin", "quantite": 3, "prix_unitaire": 39.9, "montant": 119.7, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0129"}}
+{"commande_id": "CMD-0129", "date_vente": "2026-10-07T10:36:01Z", "client_id": "CLI-045", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "mobile", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0130"}}
+{"commande_id": "CMD-0130", "date_vente": "2026-10-07T10:01:47Z", "client_id": "CLI-076", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 24.5, "montant": 49.0, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0131"}}
+{"commande_id": "CMD-0131", "date_vente": "2026-10-07T18:51:38Z", "client_id": "CLI-094", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 4, "prix_unitaire": 12.9, "montant": 51.6, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0132"}}
+{"commande_id": "CMD-0132", "date_vente": "2026-10-08T17:42:35Z", "client_id": "CLI-116", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0133"}}
+{"commande_id": "CMD-0133", "date_vente": "2026-10-09T09:14:14Z", "client_id": "CLI-037", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 4, "prix_unitaire": 24.5, "montant": 98.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0134"}}
+{"commande_id": "CMD-0134", "date_vente": "2026-10-09T18:30:33Z", "client_id": "CLI-036", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Canada", "canal": "web", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0135"}}
+{"commande_id": "CMD-0135", "date_vente": "2026-10-10T17:25:40Z", "client_id": "CLI-028", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 89.99, "montant": 179.98, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0136"}}
+{"commande_id": "CMD-0136", "date_vente": "2026-10-10T10:13:34Z", "client_id": "CLI-104", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Canada", "canal": "mobile", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0137"}}
+{"commande_id": "CMD-0137", "date_vente": "2026-10-10T15:18:49Z", "client_id": "CLI-102", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Canada", "canal": "magasin", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0138"}}
+{"commande_id": "CMD-0138", "date_vente": "2026-10-11T08:46:45Z", "client_id": "CLI-014", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 4, "prix_unitaire": 24.5, "montant": 98.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0139"}}
+{"commande_id": "CMD-0139", "date_vente": "2026-10-11T15:04:41Z", "client_id": "CLI-032", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "magasin", "quantite": 2, "prix_unitaire": 39.9, "montant": 79.8, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0140"}}
+{"commande_id": "CMD-0140", "date_vente": "2026-10-11T14:21:35Z", "client_id": "CLI-094", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 1, "prix_unitaire": 49.0, "montant": 49.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0141"}}
+{"commande_id": "CMD-0141", "date_vente": "2026-10-11T12:13:06Z", "client_id": "CLI-100", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0142"}}
+{"commande_id": "CMD-0142", "date_vente": "2026-10-11T09:22:53Z", "client_id": "CLI-041", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 1, "prix_unitaire": 89.99, "montant": 89.99, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0143"}}
+{"commande_id": "CMD-0143", "date_vente": "2026-10-11T12:52:07Z", "client_id": "CLI-131", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "Canada", "canal": "web", "quantite": 3, "prix_unitaire": 49.0, "montant": 147.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0144"}}
+{"commande_id": "CMD-0144", "date_vente": "2026-10-12T16:25:47Z", "client_id": "CLI-017", "produit": "Barre de son", "categorie": "Audio", "pays": "Suisse", "canal": "web", "quantite": 1, "prix_unitaire": 119.0, "montant": 119.0, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0145"}}
+{"commande_id": "CMD-0145", "date_vente": "2026-10-12T11:44:51Z", "client_id": "CLI-134", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Canada", "canal": "mobile", "quantite": 2, "prix_unitaire": 24.5, "montant": 49.0, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0146"}}
+{"commande_id": "CMD-0146", "date_vente": "2026-10-12T15:25:02Z", "client_id": "CLI-075", "produit": "Enceinte portable", "categorie": "Audio", "pays": "Suisse", "canal": "web", "quantite": 4, "prix_unitaire": 35.0, "montant": 140.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0147"}}
+{"commande_id": "CMD-0147", "date_vente": "2026-10-12T12:43:09Z", "client_id": "CLI-066", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 49.0, "montant": 49.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0148"}}
+{"commande_id": "CMD-0148", "date_vente": "2026-10-12T18:56:31Z", "client_id": "CLI-080", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "mobile", "quantite": 2, "prix_unitaire": 39.9, "montant": 79.8, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0149"}}
+{"commande_id": "CMD-0149", "date_vente": "2026-10-12T15:05:14Z", "client_id": "CLI-059", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 3, "prix_unitaire": 89.99, "montant": 269.97, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0150"}}
+{"commande_id": "CMD-0150", "date_vente": "2026-10-12T13:29:00Z", "client_id": "CLI-147", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 139.0, "montant": 139.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0151"}}
+{"commande_id": "CMD-0151", "date_vente": "2026-10-12T18:38:10Z", "client_id": "CLI-100", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 1, "prix_unitaire": 24.5, "montant": 24.5, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0152"}}
+{"commande_id": "CMD-0152", "date_vente": "2026-10-13T12:18:25Z", "client_id": "CLI-079", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "Suisse", "canal": "web", "quantite": 4, "prix_unitaire": 59.9, "montant": 239.6, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0153"}}
+{"commande_id": "CMD-0153", "date_vente": "2026-10-13T10:52:26Z", "client_id": "CLI-100", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Canada", "canal": "magasin", "quantite": 1, "prix_unitaire": 24.5, "montant": 24.5, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0154"}}
+{"commande_id": "CMD-0154", "date_vente": "2026-10-13T09:26:46Z", "client_id": "CLI-078", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 2, "prix_unitaire": 139.0, "montant": 278.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0155"}}
+{"commande_id": "CMD-0155", "date_vente": "2026-10-14T14:10:51Z", "client_id": "CLI-047", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 4, "prix_unitaire": 89.99, "montant": 359.96, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0156"}}
+{"commande_id": "CMD-0156", "date_vente": "2026-10-14T19:39:31Z", "client_id": "CLI-023", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0157"}}
+{"commande_id": "CMD-0157", "date_vente": "2026-10-15T08:11:48Z", "client_id": "CLI-131", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "Suisse", "canal": "web", "quantite": 1, "prix_unitaire": 79.9, "montant": 79.9, "statut": "livree", "note_client": 1}
+{"index": {"_index": "ventes", "_id": "CMD-0158"}}
+{"commande_id": "CMD-0158", "date_vente": "2026-10-15T14:39:09Z", "client_id": "CLI-134", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 4, "prix_unitaire": 12.9, "montant": 51.6, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0159"}}
+{"commande_id": "CMD-0159", "date_vente": "2026-10-15T10:17:54Z", "client_id": "CLI-069", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 2, "prix_unitaire": 24.5, "montant": 49.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0160"}}
+{"commande_id": "CMD-0160", "date_vente": "2026-10-15T11:10:40Z", "client_id": "CLI-054", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 4, "prix_unitaire": 49.0, "montant": 196.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0161"}}
+{"commande_id": "CMD-0161", "date_vente": "2026-10-16T19:23:53Z", "client_id": "CLI-056", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Canada", "canal": "mobile", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0162"}}
+{"commande_id": "CMD-0162", "date_vente": "2026-10-16T14:28:08Z", "client_id": "CLI-090", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Canada", "canal": "web", "quantite": 3, "prix_unitaire": 12.9, "montant": 38.7, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0163"}}
+{"commande_id": "CMD-0163", "date_vente": "2026-10-16T11:10:04Z", "client_id": "CLI-033", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Suisse", "canal": "mobile", "quantite": 2, "prix_unitaire": 39.9, "montant": 79.8, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0164"}}
+{"commande_id": "CMD-0164", "date_vente": "2026-10-16T10:29:53Z", "client_id": "CLI-023", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 4, "prix_unitaire": 12.9, "montant": 51.6, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0165"}}
+{"commande_id": "CMD-0165", "date_vente": "2026-10-17T15:05:23Z", "client_id": "CLI-008", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Canada", "canal": "mobile", "quantite": 2, "prix_unitaire": 24.5, "montant": 49.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0166"}}
+{"commande_id": "CMD-0166", "date_vente": "2026-10-17T08:31:18Z", "client_id": "CLI-044", "produit": "Enceinte portable", "categorie": "Audio", "pays": "France", "canal": "magasin", "quantite": 1, "prix_unitaire": 35.0, "montant": 35.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0167"}}
+{"commande_id": "CMD-0167", "date_vente": "2026-10-17T14:13:18Z", "client_id": "CLI-084", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0168"}}
+{"commande_id": "CMD-0168", "date_vente": "2026-10-17T09:04:18Z", "client_id": "CLI-096", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Belgique", "canal": "mobile", "quantite": 2, "prix_unitaire": 12.9, "montant": 25.8, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0169"}}
+{"commande_id": "CMD-0169", "date_vente": "2026-10-17T18:34:18Z", "client_id": "CLI-085", "produit": "Barre de son", "categorie": "Audio", "pays": "Suisse", "canal": "magasin", "quantite": 2, "prix_unitaire": 119.0, "montant": 238.0, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0170"}}
+{"commande_id": "CMD-0170", "date_vente": "2026-10-17T13:07:57Z", "client_id": "CLI-073", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Belgique", "canal": "magasin", "quantite": 2, "prix_unitaire": 89.99, "montant": 179.98, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0171"}}
+{"commande_id": "CMD-0171", "date_vente": "2026-10-17T14:02:16Z", "client_id": "CLI-008", "produit": "Enceinte portable", "categorie": "Audio", "pays": "Belgique", "canal": "magasin", "quantite": 1, "prix_unitaire": 35.0, "montant": 35.0, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0172"}}
+{"commande_id": "CMD-0172", "date_vente": "2026-10-17T17:21:53Z", "client_id": "CLI-108", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "magasin", "quantite": 2, "prix_unitaire": 39.9, "montant": 79.8, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0173"}}
+{"commande_id": "CMD-0173", "date_vente": "2026-10-17T13:45:57Z", "client_id": "CLI-074", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Canada", "canal": "web", "quantite": 1, "prix_unitaire": 89.99, "montant": 89.99, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0174"}}
+{"commande_id": "CMD-0174", "date_vente": "2026-10-17T19:42:15Z", "client_id": "CLI-035", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Suisse", "canal": "web", "quantite": 1, "prix_unitaire": 24.5, "montant": 24.5, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0175"}}
+{"commande_id": "CMD-0175", "date_vente": "2026-10-18T18:39:51Z", "client_id": "CLI-043", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "Canada", "canal": "magasin", "quantite": 3, "prix_unitaire": 49.0, "montant": 147.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0176"}}
+{"commande_id": "CMD-0176", "date_vente": "2026-10-18T12:37:38Z", "client_id": "CLI-085", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 3, "prix_unitaire": 12.9, "montant": 38.7, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0177"}}
+{"commande_id": "CMD-0177", "date_vente": "2026-10-18T14:41:36Z", "client_id": "CLI-114", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Belgique", "canal": "magasin", "quantite": 2, "prix_unitaire": 24.5, "montant": 49.0, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0178"}}
+{"commande_id": "CMD-0178", "date_vente": "2026-10-18T12:29:19Z", "client_id": "CLI-068", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "Canada", "canal": "mobile", "quantite": 3, "prix_unitaire": 79.9, "montant": 239.7, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0179"}}
+{"commande_id": "CMD-0179", "date_vente": "2026-10-18T14:23:23Z", "client_id": "CLI-134", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "Canada", "canal": "magasin", "quantite": 2, "prix_unitaire": 49.0, "montant": 98.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0180"}}
+{"commande_id": "CMD-0180", "date_vente": "2026-10-18T12:20:49Z", "client_id": "CLI-112", "produit": "Enceinte portable", "categorie": "Audio", "pays": "France", "canal": "mobile", "quantite": 3, "prix_unitaire": 35.0, "montant": 105.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0181"}}
+{"commande_id": "CMD-0181", "date_vente": "2026-10-18T14:05:13Z", "client_id": "CLI-096", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 59.9, "montant": 59.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0182"}}
+{"commande_id": "CMD-0182", "date_vente": "2026-10-19T18:39:34Z", "client_id": "CLI-031", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "Belgique", "canal": "mobile", "quantite": 1, "prix_unitaire": 59.9, "montant": 59.9, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0183"}}
+{"commande_id": "CMD-0183", "date_vente": "2026-10-19T12:14:44Z", "client_id": "CLI-008", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 4, "prix_unitaire": 12.9, "montant": 51.6, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0184"}}
+{"commande_id": "CMD-0184", "date_vente": "2026-10-19T18:25:41Z", "client_id": "CLI-146", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 3, "prix_unitaire": 24.5, "montant": 73.5, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0185"}}
+{"commande_id": "CMD-0185", "date_vente": "2026-10-19T09:58:52Z", "client_id": "CLI-060", "produit": "Barre de son", "categorie": "Audio", "pays": "Belgique", "canal": "mobile", "quantite": 1, "prix_unitaire": 119.0, "montant": 119.0, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0186"}}
+{"commande_id": "CMD-0186", "date_vente": "2026-10-19T14:14:06Z", "client_id": "CLI-070", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "mobile", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0187"}}
+{"commande_id": "CMD-0187", "date_vente": "2026-10-19T09:32:03Z", "client_id": "CLI-115", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "Canada", "canal": "web", "quantite": 1, "prix_unitaire": 139.0, "montant": 139.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0188"}}
+{"commande_id": "CMD-0188", "date_vente": "2026-10-19T12:44:24Z", "client_id": "CLI-103", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 24.5, "montant": 24.5, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0189"}}
+{"commande_id": "CMD-0189", "date_vente": "2026-10-19T10:32:53Z", "client_id": "CLI-069", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 4, "prix_unitaire": 24.5, "montant": 98.0, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0190"}}
+{"commande_id": "CMD-0190", "date_vente": "2026-10-19T10:43:23Z", "client_id": "CLI-120", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Suisse", "canal": "magasin", "quantite": 3, "prix_unitaire": 39.9, "montant": 119.7, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0191"}}
+{"commande_id": "CMD-0191", "date_vente": "2026-10-19T15:32:16Z", "client_id": "CLI-147", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Belgique", "canal": "magasin", "quantite": 1, "prix_unitaire": 89.99, "montant": 89.99, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0192"}}
+{"commande_id": "CMD-0192", "date_vente": "2026-10-19T18:22:20Z", "client_id": "CLI-126", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 24.5, "montant": 49.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0193"}}
+{"commande_id": "CMD-0193", "date_vente": "2026-10-19T11:58:54Z", "client_id": "CLI-106", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 3, "prix_unitaire": 139.0, "montant": 417.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0194"}}
+{"commande_id": "CMD-0194", "date_vente": "2026-10-19T10:16:49Z", "client_id": "CLI-078", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Canada", "canal": "web", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0195"}}
+{"commande_id": "CMD-0195", "date_vente": "2026-10-19T18:17:02Z", "client_id": "CLI-052", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 3, "prix_unitaire": 49.0, "montant": 147.0, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0196"}}
+{"commande_id": "CMD-0196", "date_vente": "2026-10-19T13:29:21Z", "client_id": "CLI-009", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 24.5, "montant": 24.5, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0197"}}
+{"commande_id": "CMD-0197", "date_vente": "2026-10-19T19:19:22Z", "client_id": "CLI-122", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 4, "prix_unitaire": 12.9, "montant": 51.6, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0198"}}
+{"commande_id": "CMD-0198", "date_vente": "2026-10-19T17:11:58Z", "client_id": "CLI-055", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Suisse", "canal": "magasin", "quantite": 3, "prix_unitaire": 39.9, "montant": 119.7, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0199"}}
+{"commande_id": "CMD-0199", "date_vente": "2026-10-19T12:20:49Z", "client_id": "CLI-032", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Canada", "canal": "web", "quantite": 4, "prix_unitaire": 12.9, "montant": 51.6, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0200"}}
+{"commande_id": "CMD-0200", "date_vente": "2026-10-19T11:31:40Z", "client_id": "CLI-132", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 49.0, "montant": 49.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0201"}}
+{"commande_id": "CMD-0201", "date_vente": "2026-10-19T09:19:29Z", "client_id": "CLI-051", "produit": "Enceinte portable", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 35.0, "montant": 70.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0202"}}
+{"commande_id": "CMD-0202", "date_vente": "2026-10-20T16:56:58Z", "client_id": "CLI-125", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 49.0, "montant": 49.0, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0203"}}
+{"commande_id": "CMD-0203", "date_vente": "2026-10-20T08:18:14Z", "client_id": "CLI-011", "produit": "Enceinte portable", "categorie": "Audio", "pays": "Belgique", "canal": "web", "quantite": 1, "prix_unitaire": 35.0, "montant": 35.0, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0204"}}
+{"commande_id": "CMD-0204", "date_vente": "2026-10-20T11:53:07Z", "client_id": "CLI-077", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Suisse", "canal": "web", "quantite": 1, "prix_unitaire": 24.5, "montant": 24.5, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0205"}}
+{"commande_id": "CMD-0205", "date_vente": "2026-10-20T11:58:32Z", "client_id": "CLI-026", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "Belgique", "canal": "mobile", "quantite": 3, "prix_unitaire": 79.9, "montant": 239.7, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0206"}}
+{"commande_id": "CMD-0206", "date_vente": "2026-10-20T12:04:50Z", "client_id": "CLI-084", "produit": "Enceinte portable", "categorie": "Audio", "pays": "Canada", "canal": "web", "quantite": 1, "prix_unitaire": 35.0, "montant": 35.0, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0207"}}
+{"commande_id": "CMD-0207", "date_vente": "2026-10-20T10:23:44Z", "client_id": "CLI-039", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 2, "prix_unitaire": 24.5, "montant": 49.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0208"}}
+{"commande_id": "CMD-0208", "date_vente": "2026-10-20T18:43:50Z", "client_id": "CLI-100", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 1, "prix_unitaire": 24.5, "montant": 24.5, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0209"}}
+{"commande_id": "CMD-0209", "date_vente": "2026-10-20T19:39:58Z", "client_id": "CLI-016", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "magasin", "quantite": 2, "prix_unitaire": 39.9, "montant": 79.8, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0210"}}
+{"commande_id": "CMD-0210", "date_vente": "2026-10-21T14:22:47Z", "client_id": "CLI-149", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 59.9, "montant": 59.9, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0211"}}
+{"commande_id": "CMD-0211", "date_vente": "2026-10-21T11:03:01Z", "client_id": "CLI-010", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 4, "prix_unitaire": 139.0, "montant": 556.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0212"}}
+{"commande_id": "CMD-0212", "date_vente": "2026-10-21T10:44:10Z", "client_id": "CLI-053", "produit": "Barre de son", "categorie": "Audio", "pays": "Suisse", "canal": "mobile", "quantite": 4, "prix_unitaire": 119.0, "montant": 476.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0213"}}
+{"commande_id": "CMD-0213", "date_vente": "2026-10-21T14:45:21Z", "client_id": "CLI-066", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 4, "prix_unitaire": 24.5, "montant": 98.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0214"}}
+{"commande_id": "CMD-0214", "date_vente": "2026-10-21T11:00:50Z", "client_id": "CLI-088", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Suisse", "canal": "mobile", "quantite": 1, "prix_unitaire": 24.5, "montant": 24.5, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0215"}}
+{"commande_id": "CMD-0215", "date_vente": "2026-10-21T17:08:09Z", "client_id": "CLI-113", "produit": "Enceinte portable", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 35.0, "montant": 70.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0216"}}
+{"commande_id": "CMD-0216", "date_vente": "2026-10-21T15:17:19Z", "client_id": "CLI-090", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 1, "prix_unitaire": 79.9, "montant": 79.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0217"}}
+{"commande_id": "CMD-0217", "date_vente": "2026-10-21T17:40:12Z", "client_id": "CLI-043", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Belgique", "canal": "magasin", "quantite": 3, "prix_unitaire": 39.9, "montant": 119.7, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0218"}}
+{"commande_id": "CMD-0218", "date_vente": "2026-10-21T11:45:26Z", "client_id": "CLI-024", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "Belgique", "canal": "mobile", "quantite": 1, "prix_unitaire": 79.9, "montant": 79.9, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0219"}}
+{"commande_id": "CMD-0219", "date_vente": "2026-10-21T13:09:55Z", "client_id": "CLI-106", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0220"}}
+{"commande_id": "CMD-0220", "date_vente": "2026-10-21T18:51:41Z", "client_id": "CLI-142", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0221"}}
+{"commande_id": "CMD-0221", "date_vente": "2026-10-21T11:37:51Z", "client_id": "CLI-143", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "Suisse", "canal": "mobile", "quantite": 1, "prix_unitaire": 59.9, "montant": 59.9, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0222"}}
+{"commande_id": "CMD-0222", "date_vente": "2026-10-21T19:47:30Z", "client_id": "CLI-050", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 12.9, "montant": 25.8, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0223"}}
+{"commande_id": "CMD-0223", "date_vente": "2026-10-21T10:26:17Z", "client_id": "CLI-072", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 139.0, "montant": 139.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0224"}}
+{"commande_id": "CMD-0224", "date_vente": "2026-10-22T11:07:02Z", "client_id": "CLI-075", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 2, "prix_unitaire": 12.9, "montant": 25.8, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0225"}}
+{"commande_id": "CMD-0225", "date_vente": "2026-10-22T13:06:20Z", "client_id": "CLI-039", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Canada", "canal": "web", "quantite": 2, "prix_unitaire": 89.99, "montant": 179.98, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0226"}}
+{"commande_id": "CMD-0226", "date_vente": "2026-10-22T18:51:09Z", "client_id": "CLI-105", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0227"}}
+{"commande_id": "CMD-0227", "date_vente": "2026-10-22T19:22:34Z", "client_id": "CLI-148", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Suisse", "canal": "mobile", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0228"}}
+{"commande_id": "CMD-0228", "date_vente": "2026-10-22T15:30:02Z", "client_id": "CLI-025", "produit": "Barre de son", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 119.0, "montant": 238.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0229"}}
+{"commande_id": "CMD-0229", "date_vente": "2026-10-22T09:25:38Z", "client_id": "CLI-097", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Canada", "canal": "magasin", "quantite": 4, "prix_unitaire": 89.99, "montant": 359.96, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0230"}}
+{"commande_id": "CMD-0230", "date_vente": "2026-10-22T16:15:31Z", "client_id": "CLI-111", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "Belgique", "canal": "mobile", "quantite": 1, "prix_unitaire": 49.0, "montant": 49.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0231"}}
+{"commande_id": "CMD-0231", "date_vente": "2026-10-22T08:12:58Z", "client_id": "CLI-075", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Canada", "canal": "web", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0232"}}
+{"commande_id": "CMD-0232", "date_vente": "2026-10-22T08:11:27Z", "client_id": "CLI-141", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 59.9, "montant": 59.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0233"}}
+{"commande_id": "CMD-0233", "date_vente": "2026-10-22T15:30:42Z", "client_id": "CLI-049", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0234"}}
+{"commande_id": "CMD-0234", "date_vente": "2026-10-22T18:24:43Z", "client_id": "CLI-049", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 2, "prix_unitaire": 49.0, "montant": 98.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0235"}}
+{"commande_id": "CMD-0235", "date_vente": "2026-10-22T16:52:52Z", "client_id": "CLI-061", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 12.9, "montant": 25.8, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0236"}}
+{"commande_id": "CMD-0236", "date_vente": "2026-10-22T18:19:36Z", "client_id": "CLI-029", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 89.99, "montant": 89.99, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0237"}}
+{"commande_id": "CMD-0237", "date_vente": "2026-10-22T12:16:44Z", "client_id": "CLI-052", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Canada", "canal": "mobile", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0238"}}
+{"commande_id": "CMD-0238", "date_vente": "2026-10-23T10:56:48Z", "client_id": "CLI-128", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 3, "prix_unitaire": 24.5, "montant": 73.5, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0239"}}
+{"commande_id": "CMD-0239", "date_vente": "2026-10-23T15:19:48Z", "client_id": "CLI-128", "produit": "Enceinte portable", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 35.0, "montant": 70.0, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0240"}}
+{"commande_id": "CMD-0240", "date_vente": "2026-10-23T10:24:24Z", "client_id": "CLI-048", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0241"}}
+{"commande_id": "CMD-0241", "date_vente": "2026-10-23T15:04:24Z", "client_id": "CLI-124", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "Suisse", "canal": "web", "quantite": 1, "prix_unitaire": 59.9, "montant": 59.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0242"}}
+{"commande_id": "CMD-0242", "date_vente": "2026-10-23T12:59:01Z", "client_id": "CLI-054", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "Suisse", "canal": "magasin", "quantite": 1, "prix_unitaire": 79.9, "montant": 79.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0243"}}
+{"commande_id": "CMD-0243", "date_vente": "2026-10-23T17:24:56Z", "client_id": "CLI-042", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 4, "prix_unitaire": 59.9, "montant": 239.6, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0244"}}
+{"commande_id": "CMD-0244", "date_vente": "2026-10-23T16:19:41Z", "client_id": "CLI-141", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 1, "prix_unitaire": 89.99, "montant": 89.99, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0245"}}
+{"commande_id": "CMD-0245", "date_vente": "2026-10-23T08:19:13Z", "client_id": "CLI-127", "produit": "Enceinte portable", "categorie": "Audio", "pays": "Canada", "canal": "magasin", "quantite": 2, "prix_unitaire": 35.0, "montant": 70.0, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0246"}}
+{"commande_id": "CMD-0246", "date_vente": "2026-10-23T09:36:27Z", "client_id": "CLI-012", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 4, "prix_unitaire": 49.0, "montant": 196.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0247"}}
+{"commande_id": "CMD-0247", "date_vente": "2026-10-24T17:56:02Z", "client_id": "CLI-075", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0248"}}
+{"commande_id": "CMD-0248", "date_vente": "2026-10-24T15:21:02Z", "client_id": "CLI-065", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Canada", "canal": "mobile", "quantite": 3, "prix_unitaire": 39.9, "montant": 119.7, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0249"}}
+{"commande_id": "CMD-0249", "date_vente": "2026-10-24T18:08:24Z", "client_id": "CLI-047", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 59.9, "montant": 119.8, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0250"}}
+{"commande_id": "CMD-0250", "date_vente": "2026-10-24T16:46:31Z", "client_id": "CLI-077", "produit": "Enceinte portable", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 35.0, "montant": 35.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0251"}}
+{"commande_id": "CMD-0251", "date_vente": "2026-10-24T12:44:20Z", "client_id": "CLI-033", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 2, "prix_unitaire": 24.5, "montant": 49.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0252"}}
+{"commande_id": "CMD-0252", "date_vente": "2026-10-24T13:05:58Z", "client_id": "CLI-148", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 1, "prix_unitaire": 89.99, "montant": 89.99, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0253"}}
+{"commande_id": "CMD-0253", "date_vente": "2026-10-24T10:50:05Z", "client_id": "CLI-104", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "Canada", "canal": "web", "quantite": 2, "prix_unitaire": 49.0, "montant": 98.0, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0254"}}
+{"commande_id": "CMD-0254", "date_vente": "2026-10-24T09:48:45Z", "client_id": "CLI-112", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "Canada", "canal": "web", "quantite": 1, "prix_unitaire": 59.9, "montant": 59.9, "statut": "livree", "note_client": 1}
+{"index": {"_index": "ventes", "_id": "CMD-0255"}}
+{"commande_id": "CMD-0255", "date_vente": "2026-10-24T10:18:30Z", "client_id": "CLI-132", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0256"}}
+{"commande_id": "CMD-0256", "date_vente": "2026-10-24T17:31:52Z", "client_id": "CLI-117", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Canada", "canal": "web", "quantite": 1, "prix_unitaire": 89.99, "montant": 89.99, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0257"}}
+{"commande_id": "CMD-0257", "date_vente": "2026-10-24T08:44:04Z", "client_id": "CLI-004", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 2, "prix_unitaire": 49.0, "montant": 98.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0258"}}
+{"commande_id": "CMD-0258", "date_vente": "2026-10-24T08:27:23Z", "client_id": "CLI-069", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Canada", "canal": "web", "quantite": 2, "prix_unitaire": 24.5, "montant": 49.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0259"}}
+{"commande_id": "CMD-0259", "date_vente": "2026-10-24T14:10:56Z", "client_id": "CLI-137", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Suisse", "canal": "magasin", "quantite": 3, "prix_unitaire": 89.99, "montant": 269.97, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0260"}}
+{"commande_id": "CMD-0260", "date_vente": "2026-10-24T11:12:59Z", "client_id": "CLI-018", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 2, "prix_unitaire": 24.5, "montant": 49.0, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0261"}}
+{"commande_id": "CMD-0261", "date_vente": "2026-10-24T15:25:51Z", "client_id": "CLI-005", "produit": "Enceinte portable", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 35.0, "montant": 35.0, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0262"}}
+{"commande_id": "CMD-0262", "date_vente": "2026-10-24T14:57:27Z", "client_id": "CLI-030", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 24.5, "montant": 49.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0263"}}
+{"commande_id": "CMD-0263", "date_vente": "2026-10-25T11:45:09Z", "client_id": "CLI-141", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 2, "prix_unitaire": 139.0, "montant": 278.0, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0264"}}
+{"commande_id": "CMD-0264", "date_vente": "2026-10-25T09:16:26Z", "client_id": "CLI-094", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 89.99, "montant": 179.98, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0265"}}
+{"commande_id": "CMD-0265", "date_vente": "2026-10-25T12:36:05Z", "client_id": "CLI-052", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Belgique", "canal": "mobile", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0266"}}
+{"commande_id": "CMD-0266", "date_vente": "2026-10-25T10:02:13Z", "client_id": "CLI-044", "produit": "Enceinte portable", "categorie": "Audio", "pays": "Suisse", "canal": "web", "quantite": 2, "prix_unitaire": 35.0, "montant": 70.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0267"}}
+{"commande_id": "CMD-0267", "date_vente": "2026-10-25T15:06:24Z", "client_id": "CLI-049", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 2, "prix_unitaire": 12.9, "montant": 25.8, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0268"}}
+{"commande_id": "CMD-0268", "date_vente": "2026-10-25T12:47:39Z", "client_id": "CLI-048", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Canada", "canal": "web", "quantite": 4, "prix_unitaire": 24.5, "montant": 98.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0269"}}
+{"commande_id": "CMD-0269", "date_vente": "2026-10-25T13:30:46Z", "client_id": "CLI-121", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0270"}}
+{"commande_id": "CMD-0270", "date_vente": "2026-10-25T19:50:21Z", "client_id": "CLI-116", "produit": "Enceinte portable", "categorie": "Audio", "pays": "Suisse", "canal": "mobile", "quantite": 4, "prix_unitaire": 35.0, "montant": 140.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0271"}}
+{"commande_id": "CMD-0271", "date_vente": "2026-10-25T19:20:12Z", "client_id": "CLI-014", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Belgique", "canal": "web", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0272"}}
+{"commande_id": "CMD-0272", "date_vente": "2026-10-25T09:49:07Z", "client_id": "CLI-106", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Belgique", "canal": "mobile", "quantite": 1, "prix_unitaire": 24.5, "montant": 24.5, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0273"}}
+{"commande_id": "CMD-0273", "date_vente": "2026-10-25T14:29:11Z", "client_id": "CLI-028", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "Canada", "canal": "magasin", "quantite": 1, "prix_unitaire": 139.0, "montant": 139.0, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0274"}}
+{"commande_id": "CMD-0274", "date_vente": "2026-10-25T19:07:57Z", "client_id": "CLI-101", "produit": "Barre de son", "categorie": "Audio", "pays": "Belgique", "canal": "web", "quantite": 2, "prix_unitaire": 119.0, "montant": 238.0, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0275"}}
+{"commande_id": "CMD-0275", "date_vente": "2026-10-25T12:40:04Z", "client_id": "CLI-085", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 2, "prix_unitaire": 139.0, "montant": 278.0, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0276"}}
+{"commande_id": "CMD-0276", "date_vente": "2026-10-25T17:55:19Z", "client_id": "CLI-057", "produit": "Barre de son", "categorie": "Audio", "pays": "Belgique", "canal": "mobile", "quantite": 2, "prix_unitaire": 119.0, "montant": 238.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0277"}}
+{"commande_id": "CMD-0277", "date_vente": "2026-10-25T08:31:01Z", "client_id": "CLI-018", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Suisse", "canal": "web", "quantite": 2, "prix_unitaire": 89.99, "montant": 179.98, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0278"}}
+{"commande_id": "CMD-0278", "date_vente": "2026-10-26T12:54:01Z", "client_id": "CLI-073", "produit": "Enceinte portable", "categorie": "Audio", "pays": "Suisse", "canal": "mobile", "quantite": 2, "prix_unitaire": 35.0, "montant": 70.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0279"}}
+{"commande_id": "CMD-0279", "date_vente": "2026-10-26T19:02:04Z", "client_id": "CLI-145", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 2, "prix_unitaire": 89.99, "montant": 179.98, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0280"}}
+{"commande_id": "CMD-0280", "date_vente": "2026-10-26T14:33:17Z", "client_id": "CLI-040", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 24.5, "montant": 24.5, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0281"}}
+{"commande_id": "CMD-0281", "date_vente": "2026-10-27T12:37:30Z", "client_id": "CLI-117", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0282"}}
+{"commande_id": "CMD-0282", "date_vente": "2026-10-27T08:03:07Z", "client_id": "CLI-025", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 4, "prix_unitaire": 139.0, "montant": 556.0, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0283"}}
+{"commande_id": "CMD-0283", "date_vente": "2026-10-27T08:48:44Z", "client_id": "CLI-004", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "Suisse", "canal": "mobile", "quantite": 1, "prix_unitaire": 139.0, "montant": 139.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0284"}}
+{"commande_id": "CMD-0284", "date_vente": "2026-10-27T09:00:06Z", "client_id": "CLI-116", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 24.5, "montant": 49.0, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0285"}}
+{"commande_id": "CMD-0285", "date_vente": "2026-10-27T13:53:37Z", "client_id": "CLI-148", "produit": "Enceinte portable", "categorie": "Audio", "pays": "France", "canal": "magasin", "quantite": 1, "prix_unitaire": 35.0, "montant": 35.0, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0286"}}
+{"commande_id": "CMD-0286", "date_vente": "2026-10-27T09:50:12Z", "client_id": "CLI-024", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 2, "prix_unitaire": 139.0, "montant": 278.0, "statut": "livree", "note_client": 1}
+{"index": {"_index": "ventes", "_id": "CMD-0287"}}
+{"commande_id": "CMD-0287", "date_vente": "2026-10-28T12:02:40Z", "client_id": "CLI-144", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 59.9, "montant": 59.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0288"}}
+{"commande_id": "CMD-0288", "date_vente": "2026-10-28T14:49:07Z", "client_id": "CLI-055", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 24.5, "montant": 24.5, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0289"}}
+{"commande_id": "CMD-0289", "date_vente": "2026-10-28T14:42:43Z", "client_id": "CLI-125", "produit": "Enceinte portable", "categorie": "Audio", "pays": "Belgique", "canal": "web", "quantite": 2, "prix_unitaire": 35.0, "montant": 70.0, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0290"}}
+{"commande_id": "CMD-0290", "date_vente": "2026-10-29T11:59:08Z", "client_id": "CLI-029", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Suisse", "canal": "web", "quantite": 2, "prix_unitaire": 89.99, "montant": 179.98, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0291"}}
+{"commande_id": "CMD-0291", "date_vente": "2026-10-29T15:20:50Z", "client_id": "CLI-094", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Canada", "canal": "web", "quantite": 2, "prix_unitaire": 39.9, "montant": 79.8, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0292"}}
+{"commande_id": "CMD-0292", "date_vente": "2026-10-30T11:18:23Z", "client_id": "CLI-070", "produit": "Barre de son", "categorie": "Audio", "pays": "Belgique", "canal": "web", "quantite": 2, "prix_unitaire": 119.0, "montant": 238.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0293"}}
+{"commande_id": "CMD-0293", "date_vente": "2026-10-30T15:28:12Z", "client_id": "CLI-070", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 4, "prix_unitaire": 39.9, "montant": 159.6, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0294"}}
+{"commande_id": "CMD-0294", "date_vente": "2026-10-30T14:17:44Z", "client_id": "CLI-020", "produit": "Enceinte portable", "categorie": "Audio", "pays": "France", "canal": "mobile", "quantite": 2, "prix_unitaire": 35.0, "montant": 70.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0295"}}
+{"commande_id": "CMD-0295", "date_vente": "2026-10-30T16:41:01Z", "client_id": "CLI-136", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Suisse", "canal": "magasin", "quantite": 1, "prix_unitaire": 89.99, "montant": 89.99, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0296"}}
+{"commande_id": "CMD-0296", "date_vente": "2026-10-30T14:55:15Z", "client_id": "CLI-074", "produit": "Enceinte portable", "categorie": "Audio", "pays": "Suisse", "canal": "web", "quantite": 3, "prix_unitaire": 35.0, "montant": 105.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0297"}}
+{"commande_id": "CMD-0297", "date_vente": "2026-10-30T19:42:45Z", "client_id": "CLI-118", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 59.9, "montant": 119.8, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0298"}}
+{"commande_id": "CMD-0298", "date_vente": "2026-10-30T09:26:29Z", "client_id": "CLI-097", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "Suisse", "canal": "web", "quantite": 1, "prix_unitaire": 139.0, "montant": 139.0, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0299"}}
+{"commande_id": "CMD-0299", "date_vente": "2026-10-30T19:28:03Z", "client_id": "CLI-058", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "France", "canal": "mobile", "quantite": 1, "prix_unitaire": 59.9, "montant": 59.9, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0300"}}
+{"commande_id": "CMD-0300", "date_vente": "2026-10-31T11:33:25Z", "client_id": "CLI-080", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 2, "prix_unitaire": 79.9, "montant": 159.8, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0301"}}
+{"commande_id": "CMD-0301", "date_vente": "2026-10-31T11:18:54Z", "client_id": "CLI-035", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "Suisse", "canal": "web", "quantite": 3, "prix_unitaire": 79.9, "montant": 239.7, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0302"}}
+{"commande_id": "CMD-0302", "date_vente": "2026-10-31T12:37:26Z", "client_id": "CLI-010", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "Canada", "canal": "web", "quantite": 3, "prix_unitaire": 139.0, "montant": 417.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0303"}}
+{"commande_id": "CMD-0303", "date_vente": "2026-10-31T18:04:15Z", "client_id": "CLI-027", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 4, "prix_unitaire": 24.5, "montant": 98.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0304"}}
+{"commande_id": "CMD-0304", "date_vente": "2026-11-01T17:07:34Z", "client_id": "CLI-132", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "mobile", "quantite": 3, "prix_unitaire": 39.9, "montant": 119.7, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0305"}}
+{"commande_id": "CMD-0305", "date_vente": "2026-11-01T18:47:08Z", "client_id": "CLI-136", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 3, "prix_unitaire": 24.5, "montant": 73.5, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0306"}}
+{"commande_id": "CMD-0306", "date_vente": "2026-11-01T11:59:45Z", "client_id": "CLI-047", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 4, "prix_unitaire": 139.0, "montant": 556.0, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0307"}}
+{"commande_id": "CMD-0307", "date_vente": "2026-11-01T09:42:04Z", "client_id": "CLI-114", "produit": "Enceinte portable", "categorie": "Audio", "pays": "Belgique", "canal": "magasin", "quantite": 1, "prix_unitaire": 35.0, "montant": 35.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0308"}}
+{"commande_id": "CMD-0308", "date_vente": "2026-11-01T10:05:58Z", "client_id": "CLI-106", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Canada", "canal": "web", "quantite": 3, "prix_unitaire": 12.9, "montant": 38.7, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0309"}}
+{"commande_id": "CMD-0309", "date_vente": "2026-11-01T12:53:57Z", "client_id": "CLI-056", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Belgique", "canal": "mobile", "quantite": 2, "prix_unitaire": 39.9, "montant": 79.8, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0310"}}
+{"commande_id": "CMD-0310", "date_vente": "2026-11-01T17:20:45Z", "client_id": "CLI-147", "produit": "Enceinte portable", "categorie": "Audio", "pays": "France", "canal": "magasin", "quantite": 2, "prix_unitaire": 35.0, "montant": 70.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0311"}}
+{"commande_id": "CMD-0311", "date_vente": "2026-11-01T13:57:17Z", "client_id": "CLI-141", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Belgique", "canal": "magasin", "quantite": 4, "prix_unitaire": 12.9, "montant": 51.6, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0312"}}
+{"commande_id": "CMD-0312", "date_vente": "2026-11-01T19:35:24Z", "client_id": "CLI-026", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 1, "prix_unitaire": 49.0, "montant": 49.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0313"}}
+{"commande_id": "CMD-0313", "date_vente": "2026-11-01T19:37:45Z", "client_id": "CLI-081", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "Suisse", "canal": "magasin", "quantite": 2, "prix_unitaire": 79.9, "montant": 159.8, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0314"}}
+{"commande_id": "CMD-0314", "date_vente": "2026-11-01T11:46:19Z", "client_id": "CLI-145", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Suisse", "canal": "web", "quantite": 3, "prix_unitaire": 39.9, "montant": 119.7, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0315"}}
+{"commande_id": "CMD-0315", "date_vente": "2026-11-02T16:55:03Z", "client_id": "CLI-013", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 24.5, "montant": 49.0, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0316"}}
+{"commande_id": "CMD-0316", "date_vente": "2026-11-02T13:09:24Z", "client_id": "CLI-136", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "mobile", "quantite": 2, "prix_unitaire": 39.9, "montant": 79.8, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0317"}}
+{"commande_id": "CMD-0317", "date_vente": "2026-11-02T09:39:30Z", "client_id": "CLI-023", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Suisse", "canal": "web", "quantite": 4, "prix_unitaire": 24.5, "montant": 98.0, "statut": "livree", "note_client": 1}
+{"index": {"_index": "ventes", "_id": "CMD-0318"}}
+{"commande_id": "CMD-0318", "date_vente": "2026-11-02T08:02:29Z", "client_id": "CLI-084", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "Suisse", "canal": "web", "quantite": 4, "prix_unitaire": 59.9, "montant": 239.6, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0319"}}
+{"commande_id": "CMD-0319", "date_vente": "2026-11-02T12:05:00Z", "client_id": "CLI-144", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 79.9, "montant": 79.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0320"}}
+{"commande_id": "CMD-0320", "date_vente": "2026-11-02T16:24:01Z", "client_id": "CLI-125", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "Canada", "canal": "web", "quantite": 1, "prix_unitaire": 49.0, "montant": 49.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0321"}}
+{"commande_id": "CMD-0321", "date_vente": "2026-11-02T11:06:33Z", "client_id": "CLI-071", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 1, "prix_unitaire": 49.0, "montant": 49.0, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0322"}}
+{"commande_id": "CMD-0322", "date_vente": "2026-11-03T08:09:21Z", "client_id": "CLI-078", "produit": "Enceinte portable", "categorie": "Audio", "pays": "France", "canal": "mobile", "quantite": 1, "prix_unitaire": 35.0, "montant": 35.0, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0323"}}
+{"commande_id": "CMD-0323", "date_vente": "2026-11-03T13:20:17Z", "client_id": "CLI-086", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 2, "prix_unitaire": 89.99, "montant": 179.98, "statut": "livree", "note_client": 1}
+{"index": {"_index": "ventes", "_id": "CMD-0324"}}
+{"commande_id": "CMD-0324", "date_vente": "2026-11-03T15:38:40Z", "client_id": "CLI-004", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 24.5, "montant": 24.5, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0325"}}
+{"commande_id": "CMD-0325", "date_vente": "2026-11-03T16:39:29Z", "client_id": "CLI-148", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "Belgique", "canal": "mobile", "quantite": 1, "prix_unitaire": 59.9, "montant": 59.9, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0326"}}
+{"commande_id": "CMD-0326", "date_vente": "2026-11-03T15:07:35Z", "client_id": "CLI-107", "produit": "Enceinte portable", "categorie": "Audio", "pays": "Canada", "canal": "web", "quantite": 1, "prix_unitaire": 35.0, "montant": 35.0, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0327"}}
+{"commande_id": "CMD-0327", "date_vente": "2026-11-03T13:38:27Z", "client_id": "CLI-150", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Suisse", "canal": "web", "quantite": 1, "prix_unitaire": 89.99, "montant": 89.99, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0328"}}
+{"commande_id": "CMD-0328", "date_vente": "2026-11-03T17:31:37Z", "client_id": "CLI-088", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 12.9, "montant": 25.8, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0329"}}
+{"commande_id": "CMD-0329", "date_vente": "2026-11-04T14:59:21Z", "client_id": "CLI-140", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 2, "prix_unitaire": 12.9, "montant": 25.8, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0330"}}
+{"commande_id": "CMD-0330", "date_vente": "2026-11-04T16:06:12Z", "client_id": "CLI-037", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 1, "prix_unitaire": 79.9, "montant": 79.9, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0331"}}
+{"commande_id": "CMD-0331", "date_vente": "2026-11-04T14:57:15Z", "client_id": "CLI-070", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 1, "prix_unitaire": 24.5, "montant": 24.5, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0332"}}
+{"commande_id": "CMD-0332", "date_vente": "2026-11-05T09:52:51Z", "client_id": "CLI-067", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Canada", "canal": "magasin", "quantite": 1, "prix_unitaire": 89.99, "montant": 89.99, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0333"}}
+{"commande_id": "CMD-0333", "date_vente": "2026-11-05T09:23:48Z", "client_id": "CLI-120", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 2, "prix_unitaire": 89.99, "montant": 179.98, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0334"}}
+{"commande_id": "CMD-0334", "date_vente": "2026-11-05T15:03:26Z", "client_id": "CLI-129", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "France", "canal": "magasin", "quantite": 2, "prix_unitaire": 59.9, "montant": 119.8, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0335"}}
+{"commande_id": "CMD-0335", "date_vente": "2026-11-05T09:37:09Z", "client_id": "CLI-122", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 3, "prix_unitaire": 24.5, "montant": 73.5, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0336"}}
+{"commande_id": "CMD-0336", "date_vente": "2026-11-05T17:52:33Z", "client_id": "CLI-101", "produit": "Barre de son", "categorie": "Audio", "pays": "Suisse", "canal": "mobile", "quantite": 1, "prix_unitaire": 119.0, "montant": 119.0, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0337"}}
+{"commande_id": "CMD-0337", "date_vente": "2026-11-05T14:16:08Z", "client_id": "CLI-123", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 79.9, "montant": 79.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0338"}}
+{"commande_id": "CMD-0338", "date_vente": "2026-11-06T17:44:21Z", "client_id": "CLI-001", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 2, "prix_unitaire": 49.0, "montant": 98.0, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0339"}}
+{"commande_id": "CMD-0339", "date_vente": "2026-11-06T17:07:07Z", "client_id": "CLI-053", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Canada", "canal": "web", "quantite": 3, "prix_unitaire": 24.5, "montant": 73.5, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0340"}}
+{"commande_id": "CMD-0340", "date_vente": "2026-11-06T15:54:16Z", "client_id": "CLI-125", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Canada", "canal": "mobile", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0341"}}
+{"commande_id": "CMD-0341", "date_vente": "2026-11-07T19:35:22Z", "client_id": "CLI-001", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "Belgique", "canal": "magasin", "quantite": 1, "prix_unitaire": 79.9, "montant": 79.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0342"}}
+{"commande_id": "CMD-0342", "date_vente": "2026-11-07T13:19:04Z", "client_id": "CLI-136", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 1, "prix_unitaire": 24.5, "montant": 24.5, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0343"}}
+{"commande_id": "CMD-0343", "date_vente": "2026-11-07T11:05:10Z", "client_id": "CLI-019", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Suisse", "canal": "web", "quantite": 4, "prix_unitaire": 24.5, "montant": 98.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0344"}}
+{"commande_id": "CMD-0344", "date_vente": "2026-11-07T09:05:31Z", "client_id": "CLI-122", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "Belgique", "canal": "magasin", "quantite": 1, "prix_unitaire": 79.9, "montant": 79.9, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0345"}}
+{"commande_id": "CMD-0345", "date_vente": "2026-11-08T19:11:39Z", "client_id": "CLI-041", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 3, "prix_unitaire": 49.0, "montant": 147.0, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0346"}}
+{"commande_id": "CMD-0346", "date_vente": "2026-11-08T09:32:16Z", "client_id": "CLI-026", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Canada", "canal": "magasin", "quantite": 1, "prix_unitaire": 89.99, "montant": 89.99, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0347"}}
+{"commande_id": "CMD-0347", "date_vente": "2026-11-08T19:27:01Z", "client_id": "CLI-138", "produit": "Enceinte portable", "categorie": "Audio", "pays": "France", "canal": "magasin", "quantite": 1, "prix_unitaire": 35.0, "montant": 35.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0348"}}
+{"commande_id": "CMD-0348", "date_vente": "2026-11-08T19:41:10Z", "client_id": "CLI-051", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "mobile", "quantite": 2, "prix_unitaire": 39.9, "montant": 79.8, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0349"}}
+{"commande_id": "CMD-0349", "date_vente": "2026-11-08T13:16:14Z", "client_id": "CLI-068", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 49.0, "montant": 49.0, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0350"}}
+{"commande_id": "CMD-0350", "date_vente": "2026-11-08T19:19:41Z", "client_id": "CLI-028", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 4, "prix_unitaire": 89.99, "montant": 359.96, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0351"}}
+{"commande_id": "CMD-0351", "date_vente": "2026-11-08T14:21:12Z", "client_id": "CLI-049", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Canada", "canal": "mobile", "quantite": 1, "prix_unitaire": 89.99, "montant": 89.99, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0352"}}
+{"commande_id": "CMD-0352", "date_vente": "2026-11-08T11:31:30Z", "client_id": "CLI-077", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "Suisse", "canal": "mobile", "quantite": 2, "prix_unitaire": 59.9, "montant": 119.8, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0353"}}
+{"commande_id": "CMD-0353", "date_vente": "2026-11-08T10:55:32Z", "client_id": "CLI-074", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 1, "prix_unitaire": 89.99, "montant": 89.99, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0354"}}
+{"commande_id": "CMD-0354", "date_vente": "2026-11-09T18:20:10Z", "client_id": "CLI-059", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Belgique", "canal": "mobile", "quantite": 1, "prix_unitaire": 24.5, "montant": 24.5, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0355"}}
+{"commande_id": "CMD-0355", "date_vente": "2026-11-09T12:28:37Z", "client_id": "CLI-012", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Suisse", "canal": "web", "quantite": 2, "prix_unitaire": 89.99, "montant": 179.98, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0356"}}
+{"commande_id": "CMD-0356", "date_vente": "2026-11-09T08:32:51Z", "client_id": "CLI-080", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 24.5, "montant": 49.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0357"}}
+{"commande_id": "CMD-0357", "date_vente": "2026-11-09T10:00:28Z", "client_id": "CLI-110", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0358"}}
+{"commande_id": "CMD-0358", "date_vente": "2026-11-09T14:56:50Z", "client_id": "CLI-024", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 2, "prix_unitaire": 89.99, "montant": 179.98, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0359"}}
+{"commande_id": "CMD-0359", "date_vente": "2026-11-10T12:24:03Z", "client_id": "CLI-106", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 3, "prix_unitaire": 39.9, "montant": 119.7, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0360"}}
+{"commande_id": "CMD-0360", "date_vente": "2026-11-10T14:48:06Z", "client_id": "CLI-113", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "Canada", "canal": "mobile", "quantite": 1, "prix_unitaire": 59.9, "montant": 59.9, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0361"}}
+{"commande_id": "CMD-0361", "date_vente": "2026-11-10T14:01:10Z", "client_id": "CLI-022", "produit": "Enceinte portable", "categorie": "Audio", "pays": "Canada", "canal": "web", "quantite": 1, "prix_unitaire": 35.0, "montant": 35.0, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0362"}}
+{"commande_id": "CMD-0362", "date_vente": "2026-11-11T12:48:20Z", "client_id": "CLI-148", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Suisse", "canal": "mobile", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0363"}}
+{"commande_id": "CMD-0363", "date_vente": "2026-11-11T11:00:51Z", "client_id": "CLI-142", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 1, "prix_unitaire": 89.99, "montant": 89.99, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0364"}}
+{"commande_id": "CMD-0364", "date_vente": "2026-11-11T12:16:24Z", "client_id": "CLI-086", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 2, "prix_unitaire": 24.5, "montant": 49.0, "statut": "livree", "note_client": 1}
+{"index": {"_index": "ventes", "_id": "CMD-0365"}}
+{"commande_id": "CMD-0365", "date_vente": "2026-11-11T08:06:13Z", "client_id": "CLI-145", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Suisse", "canal": "web", "quantite": 3, "prix_unitaire": 89.99, "montant": 269.97, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0366"}}
+{"commande_id": "CMD-0366", "date_vente": "2026-11-11T08:04:47Z", "client_id": "CLI-121", "produit": "Barre de son", "categorie": "Audio", "pays": "Canada", "canal": "web", "quantite": 1, "prix_unitaire": 119.0, "montant": 119.0, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0367"}}
+{"commande_id": "CMD-0367", "date_vente": "2026-11-11T11:45:50Z", "client_id": "CLI-104", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Belgique", "canal": "web", "quantite": 2, "prix_unitaire": 39.9, "montant": 79.8, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0368"}}
+{"commande_id": "CMD-0368", "date_vente": "2026-11-11T08:30:50Z", "client_id": "CLI-103", "produit": "Enceinte portable", "categorie": "Audio", "pays": "Suisse", "canal": "mobile", "quantite": 3, "prix_unitaire": 35.0, "montant": 105.0, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0369"}}
+{"commande_id": "CMD-0369", "date_vente": "2026-11-11T15:59:42Z", "client_id": "CLI-148", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 1, "prix_unitaire": 49.0, "montant": 49.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0370"}}
+{"commande_id": "CMD-0370", "date_vente": "2026-11-11T15:25:57Z", "client_id": "CLI-112", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 2, "prix_unitaire": 12.9, "montant": 25.8, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0371"}}
+{"commande_id": "CMD-0371", "date_vente": "2026-11-12T16:35:07Z", "client_id": "CLI-007", "produit": "Enceinte portable", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 35.0, "montant": 35.0, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0372"}}
+{"commande_id": "CMD-0372", "date_vente": "2026-11-12T09:41:34Z", "client_id": "CLI-108", "produit": "Enceinte portable", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 35.0, "montant": 35.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0373"}}
+{"commande_id": "CMD-0373", "date_vente": "2026-11-12T11:11:37Z", "client_id": "CLI-076", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "Suisse", "canal": "mobile", "quantite": 1, "prix_unitaire": 12.9, "montant": 12.9, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0374"}}
+{"commande_id": "CMD-0374", "date_vente": "2026-11-12T12:54:07Z", "client_id": "CLI-127", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "France", "canal": "magasin", "quantite": 1, "prix_unitaire": 49.0, "montant": 49.0, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0375"}}
+{"commande_id": "CMD-0375", "date_vente": "2026-11-12T08:59:30Z", "client_id": "CLI-032", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "mobile", "quantite": 3, "prix_unitaire": 39.9, "montant": 119.7, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0376"}}
+{"commande_id": "CMD-0376", "date_vente": "2026-11-13T11:49:02Z", "client_id": "CLI-080", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "magasin", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0377"}}
+{"commande_id": "CMD-0377", "date_vente": "2026-11-13T17:19:05Z", "client_id": "CLI-081", "produit": "Enceinte portable", "categorie": "Audio", "pays": "France", "canal": "magasin", "quantite": 2, "prix_unitaire": 35.0, "montant": 70.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0378"}}
+{"commande_id": "CMD-0378", "date_vente": "2026-11-13T19:12:21Z", "client_id": "CLI-080", "produit": "Souris sans fil", "categorie": "Informatique", "pays": "Belgique", "canal": "web", "quantite": 2, "prix_unitaire": 24.5, "montant": 49.0, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0379"}}
+{"commande_id": "CMD-0379", "date_vente": "2026-11-13T18:58:20Z", "client_id": "CLI-077", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 79.9, "montant": 79.9, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0380"}}
+{"commande_id": "CMD-0380", "date_vente": "2026-11-13T18:47:19Z", "client_id": "CLI-101", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Canada", "canal": "web", "quantite": 3, "prix_unitaire": 89.99, "montant": 269.97, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0381"}}
+{"commande_id": "CMD-0381", "date_vente": "2026-11-13T16:54:21Z", "client_id": "CLI-138", "produit": "Clavier mécanique RGB", "categorie": "Informatique", "pays": "Canada", "canal": "mobile", "quantite": 3, "prix_unitaire": 89.99, "montant": 269.97, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0382"}}
+{"commande_id": "CMD-0382", "date_vente": "2026-11-13T10:35:15Z", "client_id": "CLI-039", "produit": "Barre de son", "categorie": "Audio", "pays": "Canada", "canal": "mobile", "quantite": 1, "prix_unitaire": 119.0, "montant": 119.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0383"}}
+{"commande_id": "CMD-0383", "date_vente": "2026-11-13T18:59:53Z", "client_id": "CLI-081", "produit": "Barre de son", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 119.0, "montant": 238.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0384"}}
+{"commande_id": "CMD-0384", "date_vente": "2026-11-13T10:16:49Z", "client_id": "CLI-061", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "Suisse", "canal": "web", "quantite": 1, "prix_unitaire": 139.0, "montant": 139.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0385"}}
+{"commande_id": "CMD-0385", "date_vente": "2026-11-13T14:41:43Z", "client_id": "CLI-138", "produit": "Enceinte portable", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 3, "prix_unitaire": 35.0, "montant": 105.0, "statut": "livree", "note_client": 2}
+{"index": {"_index": "ventes", "_id": "CMD-0386"}}
+{"commande_id": "CMD-0386", "date_vente": "2026-11-13T09:46:35Z", "client_id": "CLI-017", "produit": "Enceinte portable", "categorie": "Audio", "pays": "Canada", "canal": "magasin", "quantite": 3, "prix_unitaire": 35.0, "montant": 105.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0387"}}
+{"commande_id": "CMD-0387", "date_vente": "2026-11-13T15:07:05Z", "client_id": "CLI-119", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 2, "prix_unitaire": 12.9, "montant": 25.8, "statut": "annulee"}
+{"index": {"_index": "ventes", "_id": "CMD-0388"}}
+{"commande_id": "CMD-0388", "date_vente": "2026-11-13T12:58:38Z", "client_id": "CLI-058", "produit": "Barre de son", "categorie": "Audio", "pays": "France", "canal": "magasin", "quantite": 1, "prix_unitaire": 119.0, "montant": 119.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0389"}}
+{"commande_id": "CMD-0389", "date_vente": "2026-11-14T15:59:13Z", "client_id": "CLI-051", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 59.9, "montant": 59.9, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0390"}}
+{"commande_id": "CMD-0390", "date_vente": "2026-11-14T11:53:10Z", "client_id": "CLI-087", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Belgique", "canal": "mobile", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0391"}}
+{"commande_id": "CMD-0391", "date_vente": "2026-11-14T16:41:08Z", "client_id": "CLI-132", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "France", "canal": "mobile", "quantite": 1, "prix_unitaire": 39.9, "montant": 39.9, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0392"}}
+{"commande_id": "CMD-0392", "date_vente": "2026-11-14T12:11:37Z", "client_id": "CLI-138", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Canada", "canal": "mobile", "quantite": 4, "prix_unitaire": 39.9, "montant": 159.6, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0393"}}
+{"commande_id": "CMD-0393", "date_vente": "2026-11-14T10:53:41Z", "client_id": "CLI-004", "produit": "Écouteurs sans fil", "categorie": "Audio", "pays": "Canada", "canal": "web", "quantite": 2, "prix_unitaire": 39.9, "montant": 79.8, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0394"}}
+{"commande_id": "CMD-0394", "date_vente": "2026-11-14T17:30:35Z", "client_id": "CLI-021", "produit": "Enceinte portable", "categorie": "Audio", "pays": "France", "canal": "web", "quantite": 1, "prix_unitaire": 35.0, "montant": 35.0, "statut": "livree", "note_client": 4}
+{"index": {"_index": "ventes", "_id": "CMD-0395"}}
+{"commande_id": "CMD-0395", "date_vente": "2026-11-14T11:29:29Z", "client_id": "CLI-129", "produit": "Casque audio Bluetooth", "categorie": "Audio", "pays": "France", "canal": "magasin", "quantite": 1, "prix_unitaire": 59.9, "montant": 59.9, "statut": "expediee"}
+{"index": {"_index": "ventes", "_id": "CMD-0396"}}
+{"commande_id": "CMD-0396", "date_vente": "2026-11-14T15:04:01Z", "client_id": "CLI-011", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "Belgique", "canal": "mobile", "quantite": 2, "prix_unitaire": 49.0, "montant": 98.0, "statut": "livree", "note_client": 3}
+{"index": {"_index": "ventes", "_id": "CMD-0397"}}
+{"commande_id": "CMD-0397", "date_vente": "2026-11-14T14:33:45Z", "client_id": "CLI-050", "produit": "Écran 24 pouces", "categorie": "Informatique", "pays": "Canada", "canal": "mobile", "quantite": 2, "prix_unitaire": 139.0, "montant": 278.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0398"}}
+{"commande_id": "CMD-0398", "date_vente": "2026-11-15T16:29:09Z", "client_id": "CLI-090", "produit": "Webcam Full HD", "categorie": "Informatique", "pays": "France", "canal": "web", "quantite": 2, "prix_unitaire": 49.0, "montant": 98.0, "statut": "livree", "note_client": 5}
+{"index": {"_index": "ventes", "_id": "CMD-0399"}}
+{"commande_id": "CMD-0399", "date_vente": "2026-11-15T12:46:34Z", "client_id": "CLI-067", "produit": "Clé USB 64 Go", "categorie": "Informatique", "pays": "France", "canal": "mobile", "quantite": 2, "prix_unitaire": 12.9, "montant": 25.8, "statut": "livree", "note_client": 1}
+{"index": {"_index": "ventes", "_id": "CMD-0400"}}
+{"commande_id": "CMD-0400", "date_vente": "2026-11-15T09:31:02Z", "client_id": "CLI-064", "produit": "Disque SSD 1 To", "categorie": "Informatique", "pays": "Canada", "canal": "web", "quantite": 3, "prix_unitaire": 79.9, "montant": 239.7, "statut": "livree", "note_client": 5}
